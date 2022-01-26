@@ -32,4 +32,9 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
