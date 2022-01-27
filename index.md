@@ -38,4 +38,3 @@ sections:
       description: Infobar description
       button: Button Text
 ---
-
