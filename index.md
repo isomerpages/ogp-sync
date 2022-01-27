@@ -13,12 +13,9 @@ sections:
       button: Sign up today
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: What is sync?
+          description: Lorem ipsum dolor sit amet
+          url: ""
         - title: Page A
           description: Page A is important too
           url: /privacy/
