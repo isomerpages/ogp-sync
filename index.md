@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Sync
       subtitle: Keep your COVID-19 records in sync
-      background: /images/Isomer_Banner.png
+      background: /images/Isomer_Banner2.png
       button: Sign up today
       url: /contact-us/
       key_highlights:
