@@ -1,6 +1,6 @@
 title: Sync
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/Sync_512px.png
 colors:
   primary-color: "#005950"
   secondary-color: "#054763"
@@ -52,5 +52,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-sync-staging.netlify.app
 prod: https://ogp-sync-prod.netlify.app
-shareicon: /images/Sync_512px.png
+shareicon: /images/Sync-logo.svg
 is_government: true
