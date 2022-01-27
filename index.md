@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Sync
+description: Keep your COVID-19 records in sync.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -38,3 +38,4 @@ sections:
       description: Infobar description
       button: Button Text
 ---
+
