@@ -4,12 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Sync
       subtitle: Keep your COVID-19 records in sync
-      background: /images/hero-banner.png
+      background: /images/Isomer_Banner.png
       button: Sign up today
       url: /contact-us/
       key_highlights:
