@@ -1,0 +1,4 @@
+collections:
+  sync-for-organisations:
+    output: true
+    order: []
