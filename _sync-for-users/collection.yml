@@ -2,5 +2,5 @@ collections:
   sync-for-users:
     output: true
     order:
-      - How it works.md
+      - Step by Step Guide.md
       - Profile page.md
