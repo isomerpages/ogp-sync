@@ -13,12 +13,15 @@ sections:
       button: Sign up today
       url: /contact-us/
       key_highlights:
-        - title: What is sync?
-          description: Lorem ipsum dolor sit amet
+        - title: 110k
+          description: Users onboarded
           url: ""
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: 153k
+          description: Subscriptions
+          url: ""
+        - title: "52"
+          description: Organisations
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
