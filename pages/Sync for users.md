@@ -33,4 +33,7 @@ Use the SingPass Mobile App to log in
 #### **Note: Returning to Sync portal**
 After authenticating through the SingPass mobile app, you may not be redirected back to the Sync portal automatically.
 
-Please exit the SingPass mobile app and head back to your browser in order to return back to Sync portal. 
+Please exit the SingPass mobile app and head back to your browser in order to return back to Sync portal.
+
+
+### **3. Adding recipient**
