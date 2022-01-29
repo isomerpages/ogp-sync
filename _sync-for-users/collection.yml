@@ -2,5 +2,6 @@ collections:
   sync-for-users:
     output: true
     order:
+      - Past Submissions.md
       - Step by Step Guide.md
       - Profile page.md
