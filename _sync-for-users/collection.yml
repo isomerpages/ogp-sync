@@ -2,4 +2,4 @@ collections:
   sync-for-users:
     output: true
     order:
-      - Profile page.md
+      - Step by step guide.md
