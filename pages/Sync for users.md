@@ -37,3 +37,10 @@ Please exit the SingPass mobile app and head back to your browser in order to re
 
 
 ### **3. Adding recipient**
+*You may skip this step if you received an invite link from your organisation. *
+
+In order for your organisation to access your health records, users need to provide consent
+
+To do so, click or tap on the **'Add recipient'** button.
+
+**Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
