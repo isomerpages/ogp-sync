@@ -1,12 +1,7 @@
 logo: /images/Sync-logo.svg
 links:
   - title: What is Sync?
-    url: /what-is-sync
-    sublinks:
-      - title: About
-        url: /about-sync/
-      - title: Data Privacy & Sharing
-        url: /dataprivacyandsharing/
+    collection: what-is-sync
   - title: How IT WORKS
     collection: sync-for-users
   - title: Sync for organisations
@@ -22,5 +17,3 @@ links:
         url: /syncforusers/
       - title: For Organisations
         url: /permalink
-  - title: What is Sync?
-    collection: sync-for-organisations
