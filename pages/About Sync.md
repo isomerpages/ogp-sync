@@ -5,7 +5,6 @@ date: 2022-01-29
 layout: post
 description: ""
 ---
-
 ### **Keep your COVID-19 records in sync**
 
 
@@ -19,7 +18,13 @@ Presently, Sync shares COVID-19 ART and PCR swab tests results, and vaccination 
 * Submit weekly ART self-swab test results easily and securely
 
 
-#### **Beyond COVID-19 records** 
+#### **What's in it for healthcare clusters?** 
+* Timely access to verified vaccination status and test results of a healthcare worker (HCW) easily.
+	* HCWs provide consent to share their health records easily with organisations 
+	* Daily reports containing vaccination and test records of all HCWs who have provided consent will be sent to authorised P2P providers 
+* Enables monitoring of workplace safety and booster vaccination progress
 
 
 
+### **Beyond COVID-19 records**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec faucibus arcu. Sed ac tortor luctus, lobortis orci venenatis, blandit arcu. Nam id pellentesque lacus. Quisque aliquet libero tempor, aliquet urna non, blandit nibh. Donec elit lectus, dictum vel elementum vitae, lobortis quis diam. Aliquam erat volutpat. Curabitur ac feugiat orci.
