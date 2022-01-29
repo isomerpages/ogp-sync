@@ -5,7 +5,6 @@ date: 2022-01-29
 layout: post
 description: ""
 ---
-
 ### **Keep your COVID-19 records in sync**
 ![Alt text for image on Isomer site](/images/iPhone%20Mockup.jpg)
 
