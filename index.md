@@ -20,7 +20,7 @@ sections:
           description: Subscriptions
           url: ""
         - title: "52"
-          description: Organisations
+          description: Organisations onboarded
           url: ""
   - infobar:
       title: Infobar title
