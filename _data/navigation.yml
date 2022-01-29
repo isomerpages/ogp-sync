@@ -1,10 +1,10 @@
 logo: /images/Sync-logo.svg
 links:
-  - title: WHAT IS SYNC?
+  - title: What is Sync?
     url: /permalink
     sublinks:
       - title: About
-        url: /permalink
+        url: /about-sync/
       - title: Data Privacy & Sharing
         url: /permalink
   - title: How it works
