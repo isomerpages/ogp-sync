@@ -12,4 +12,4 @@ Sign in with the invite link sent from your organisation. No download required.
 sync.covid.gov.sg/invite/organisation name *
 
 Alternatively, visit the Sync portal on your mobile phone browser: 
-https://sync.covid.gov.sg/	
+https://sync.covid.gov.sg/
