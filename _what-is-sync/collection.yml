@@ -2,5 +2,5 @@ collections:
   what-is-sync:
     output: true
     order:
-      - About.md
+      - About2.md
       - Data Privacy & Sharing.md
