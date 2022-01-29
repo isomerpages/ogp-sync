@@ -10,10 +10,3 @@ links:
     url: /permalink
   - title: FAQ
     url: /permalink
-  - title: How It Works
-    url: /permalink
-    sublinks:
-      - title: For Users
-        url: /syncforusers/
-      - title: For Organisations
-        url: /permalink
