@@ -22,17 +22,12 @@ sections:
         - title: "52"
           description: Organisations onboarded
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
