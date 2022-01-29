@@ -14,7 +14,7 @@ sections:
       url: https://sync.covid.gov.sg/
       key_highlights:
         - title: 110k
-          description: Users onboarded
+          description: Users
           url: ""
         - title: 153k
           description: Subscriptions
