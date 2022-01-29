@@ -29,3 +29,5 @@ Use the SingPass Mobile App to log in
 * Singpass app guide:
 	* [Android ](https://www.singpass.gov.sg/singpass/resources/pdf/Singpass_App_Android_Guide.pdf)
 	* [iOS ](https://www.singpass.gov.sg/singpass/resources/pdf/Singpass_App_iOS_Guide.pdf)
+
+#### **Note: Returning to Sync portal**
