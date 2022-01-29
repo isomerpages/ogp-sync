@@ -1,7 +1,7 @@
 logo: /images/Sync-logo.svg
 links:
   - title: What is Sync?
-    url: /permalink
+    url: /what-is-sync
     sublinks:
       - title: About
         url: /about-sync/
@@ -22,3 +22,5 @@ links:
         url: /syncforusers/
       - title: For Organisations
         url: /permalink
+  - title: What is Sync?
+    collection: sync-for-organisations
