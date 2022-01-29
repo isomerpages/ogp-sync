@@ -7,9 +7,14 @@ links:
         url: /about-sync/
       - title: Data Privacy & Sharing
         url: /permalink
-  - title: How it works
-    url: /page/
+  - title: How It Works
+    url: /permalink
+    sublinks:
+      - title: For Users
+        url: /permalink
+      - title: For Organisations
+        url: /permalink
   - title: Get onboard
     url: /permalink
-  - title: NEED HELP?
+  - title: FAQ
     url: /permalink
