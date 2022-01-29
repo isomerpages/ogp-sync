@@ -7,6 +7,14 @@ links:
         url: /about-sync/
       - title: Data Privacy & Sharing
         url: /dataprivacyandsharing/
+  - title: How IT WORKS
+    collection: sync-for-users
+  - title: Sync for organisations
+    collection: sync-for-organisations
+  - title: Get onboard
+    url: /permalink
+  - title: FAQ
+    url: /permalink
   - title: How It Works
     url: /permalink
     sublinks:
@@ -14,9 +22,3 @@ links:
         url: /syncforusers/
       - title: For Organisations
         url: /permalink
-  - title: How IT WORKS
-    collection: sync-for-users
-  - title: Get onboard
-    url: /permalink
-  - title: FAQ
-    url: /permalink
