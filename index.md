@@ -10,8 +10,8 @@ sections:
       title: Sync
       subtitle: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner2.png
-      button: Visit Sync
-      url: https://sync.covid.gov.sg/
+      button: Get Onboard
+      url: /
       key_highlights:
         - title: 110k
           description: Users onboarded
