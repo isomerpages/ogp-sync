@@ -31,3 +31,6 @@ Use the SingPass Mobile App to log in
 	* [iOS ](https://www.singpass.gov.sg/singpass/resources/pdf/Singpass_App_iOS_Guide.pdf)
 
 #### **Note: Returning to Sync portal**
+After authenticating through the SingPass mobile app, you may not be redirected back to the Sync portal automatically.
+
+Please exit the SingPass mobile app and head back to your browser in order to return back to Sync portal. 
