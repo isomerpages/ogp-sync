@@ -16,7 +16,7 @@ https://sync.covid.gov.sg/
 
 ### **2. Log in via SingPass mobile**
 
-Use the SingPass Mobile App to log in
+Use the SingPass Mobile App to log in. Tap on the SingPass QR code.
 
 **Sync can only be accessed through the SingPass mobile app.**
 * SingPass password login is not allowed
@@ -41,7 +41,7 @@ Please exit the SingPass mobile app and head back to your browser in order to re
 
 In order for your organisation to access your health records, users need to provide consent.
 
-To do so, click or tap on the **'Add recipient'** button.
+To do so, tap or click on the **'Add recipient'** button.
 
 **Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
 
@@ -49,8 +49,29 @@ To do so, click or tap on the **'Add recipient'** button.
 ### **4. Enter organisation code**
 *You may skip this step if you received an invite link from your organisation.*
 
-**Key in the organisation code provided and click or tap Next.** Speak to your HR or manager to obtain your organisation code. 
+**Key in the organisation code provided and tap or click Next.** Speak to your HR or manager to obtain your organisation code. 
 
 If you are working with multiple organisations, please add and provide consent separately.
 
 **Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
+
+### **5. Provide consent to share records**
+A summary of the health records to be shared will be shown:
+* COVID-19 Vaccination status
+* ART Swab Results (up to 2 weeks)
+
+Tick the checkbox after reading through the page to acknowledge.
+
+Tap or click  **'I consent to sharing my records'.**
+
+**Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
+
+### **6. You're all set!**
+Your organisation will appear in your list of recipients. 
+
+**How to stop sharing?**
+
+**Simply toggle the icon off.** Organisations will appear greyed out once you stop sharing your records with them.
+
+**Important: Remember to stop sharing your health records once you stopped working with an organisation.** 
+
