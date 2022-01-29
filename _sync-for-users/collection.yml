@@ -1,5 +1,5 @@
 collections:
-  collection:
+  sync-for-users:
     output: true
     order:
       - page.md
