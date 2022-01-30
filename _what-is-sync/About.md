@@ -3,9 +3,9 @@ title: About
 permalink: /what-is-sync/about
 description: ""
 ---
-### **Keep your COVID-19 records in sync**
 ![Alt text for image on Isomer site](/images/iPhone%20Mockup.jpg)
 
+### **Keep your COVID-19 records in sync**
 Sync is a government web portal for anyone to share and submit COVID-19 records (vaccination and test records) with organisations remotely. Think of it like doing a financial transaction. Instead of money, Sync allows individuals to choose who can receive their COVID-19 health records and requires the individual’s consent, which can be revoked by the individual at any time. 
 
 Presently, Sync shares COVID-19 ART and PCR swab tests results, and vaccination records.
