@@ -2,9 +2,7 @@ logo: /images/Sync-logo.svg
 links:
   - title: About
     url: /about-sync/
-  - title: What is Sync?
-    collection: what-is-sync
-  - title: How it Works?
+  - title: How it Works
     collection: sync-for-users
   - title: Sync for organisations
     collection: sync-for-organisations
