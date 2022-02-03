@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Keep your COVID-19 records in sync
-      background: /images/Isomer_Banner2.png
+      background: /images/Isomer_Banner3.png
       button: VISIT SYNC
       url: https://sync.covid.gov.sg/
       key_highlights:
