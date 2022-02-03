@@ -16,6 +16,7 @@ https://sync.covid.gov.sg/
 
 ### **2. Log in via SingPass mobile**
 
+
 Use the SingPass Mobile App to log in. Tap on the SingPass QR code.
 
 **Sync can only be accessed through the SingPass mobile app.**
