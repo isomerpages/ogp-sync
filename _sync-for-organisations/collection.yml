@@ -1,4 +1,5 @@
 collections:
   sync-for-organisations:
     output: true
-    order: []
+    order:
+      - Admin's View.md
