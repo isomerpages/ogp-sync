@@ -4,8 +4,8 @@ permalink: /sync-for-users/step-by-step-guide
 description: ""
 ---
 ### **1. Getting onto Sync**
+![Alt text for image on Isomer site](/images/guide/Combined.png)
 
-![Alt text for image on Isomer site](/images/guide/Home.png)
 Sign in with the invite link sent from your organisation. There is no download required.
 
 Sample Invite Link:
