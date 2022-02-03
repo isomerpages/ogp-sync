@@ -15,7 +15,7 @@ Alternatively, visit the Sync portal on your mobile phone browser:
 https://sync.covid.gov.sg/
 
 ### **2. Log in via SingPass mobile**
-
+![Alt text for image on Isomer site](/images/guide/QR.png)
 
 Use the SingPass Mobile App to log in. Tap on the SingPass QR code.
 
