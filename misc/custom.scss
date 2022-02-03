@@ -337,10 +337,13 @@ $desktop: 960px + (2 * $gap) !default;
 }
 	  
 }
-
+	
 .bp-hero-body {
-  background: unset;
-  .has-text-white{
-    color: #005950 !important;
-  }
+	background: unset;
+	
+    .has-text-white{
+      color: #005950 !important;
+	}
+
 }
+
