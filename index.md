@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Sync
-      subtitle: Keep your COVID-19 records in sync
+      title: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner2.png
       button: VISIT SYNC
       url: https://sync.covid.gov.sg/
@@ -32,4 +31,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
