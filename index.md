@@ -13,14 +13,11 @@ sections:
       button: VISIT SYNC
       url: https://sync.covid.gov.sg/
       key_highlights:
-        - title: 110k
-          description: Users
+        - title: Get Onboard
+          description: with Corppass
           url: ""
-        - title: 153k
-          description: Subscriptions
-          url: ""
-        - title: "52"
-          description: Organisations onboarded
+        - title: Recommend Sync
+          description: lorem ipsum
           url: ""
   - infopic:
       title: Infopic Title
