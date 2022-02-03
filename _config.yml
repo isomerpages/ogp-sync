@@ -3,12 +3,12 @@ url: ""
 favicon: /images/Sync_512px.png
 colors:
   primary-color: "#054763"
-  secondary-color: "#054763"
+  secondary-color: "#005950"
   media-colors:
     - title: media-color-one
-      color: "#054763"
+      color: "#005950"
     - title: media-color-two
-      color: "#054763"
+      color: "#005950"
     - title: media-color-three
       color: "#054763"
     - title: media-color-four
