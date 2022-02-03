@@ -8,11 +8,11 @@ colors:
     - title: media-color-one
       color: "#054763"
     - title: media-color-two
-      color: "#005950"
+      color: "#054763"
     - title: media-color-three
-      color: "#005950"
+      color: "#054763"
     - title: media-color-four
-      color: "#005950"
+      color: "#054763"
     - title: media-color-five
       color: "#005950"
 resources_name: resource-room
