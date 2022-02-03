@@ -2,7 +2,7 @@ collections:
   sync-for-users:
     output: true
     order:
-      - Data Privacy & Sharing.md
       - Step by Step Guide.md
       - Profile Page.md
       - Past Submissions.md
+      - Data Privacy & Sharing.md
