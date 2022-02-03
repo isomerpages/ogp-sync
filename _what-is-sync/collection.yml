@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - About.md
-      - Data Privacy & Sharing.md
