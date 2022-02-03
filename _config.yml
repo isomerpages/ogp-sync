@@ -3,7 +3,7 @@ url: ""
 favicon: /images/Sync_512px.png
 colors:
   primary-color: "#005950"
-  secondary-color: "##054763"
+  secondary-color: "#054763"
   media-colors:
     - title: media-color-one
       color: "#005950"
