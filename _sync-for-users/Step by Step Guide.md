@@ -60,7 +60,7 @@ If you are working with multiple organisations, please add and provide consent s
 **Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
 
 ### **5. Provide consent to share records**
-
+![Alt text for image on Isomer site](/images/guide/Consent.png)
 
 A summary of the health records to be shared will be shown:
 * COVID-19 Vaccination status
