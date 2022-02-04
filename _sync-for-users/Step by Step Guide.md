@@ -49,6 +49,8 @@ To do so, tap or click on the **'Add recipient'** button.
 
 
 ### **4. Enter organisation code**
+![Alt text for image on Isomer site](/images/guide/Enter%20code.png)
+
 *You may skip this step if you received an invite link from your organisation.*
 
 **Key in the organisation code provided and tap or click Next.** Speak to your HR or manager to obtain your organisation code. 
@@ -58,6 +60,8 @@ If you are working with multiple organisations, please add and provide consent s
 **Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
 
 ### **5. Provide consent to share records**
+
+
 A summary of the health records to be shared will be shown:
 * COVID-19 Vaccination status
 * ART Swab Results (up to 2 weeks)
