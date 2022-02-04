@@ -73,6 +73,8 @@ Tap or click  **'I consent to sharing my records'.**
 **Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
 
 ### **6. You're all set!**
+
+
 Your organisation will appear in your list of recipients. 
 
 **How to stop sharing?**
