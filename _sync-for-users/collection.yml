@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Step by Step Guide.md
-      - Verifying Phone Number.md
+      - Verifying Mobile Number.md
       - Past Submissions.md
       - Data Privacy & Sharing.md
