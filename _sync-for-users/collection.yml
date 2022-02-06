@@ -2,6 +2,7 @@ collections:
   sync-for-users:
     output: true
     order:
+      - Verifying Phone Number.md
       - Step by Step Guide.md
       - Past Submissions.md
       - Data Privacy & Sharing.md
