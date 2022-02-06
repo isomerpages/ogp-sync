@@ -84,8 +84,3 @@ Your organisation will appear in your list of recipients.
 **Simply toggle the icon off.** Organisations will appear greyed out once you stop sharing your records with them.
 
 **Important: Remember to stop sharing your health records once you stopped working with an organisation.**
-
-
-### **How to verify your phone number?**
-Name and NRIC details are automatically collected from SingPass. 
-Verify your mobile number on Sync for automatic retrieval.
