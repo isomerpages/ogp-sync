@@ -86,7 +86,6 @@ Your organisation will appear in your list of recipients.
 **Important: Remember to stop sharing your health records once you stopped working with an organisation.**
 
 
-
-### **Profile Page**
+### **How to verify your phone number?**
 Name and NRIC details are automatically collected from SingPass. 
 Verify your mobile number on Sync for automatic retrieval.
