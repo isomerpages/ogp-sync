@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Step by Step Guide.md
-      - Profile Page.md
       - Past Submissions.md
       - Data Privacy & Sharing.md
