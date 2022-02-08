@@ -2,8 +2,8 @@ logo: /images/Sync-logo-01.png
 links:
   - title: About
     url: /about-sync/
-  - title: How it Works
-    collection: sync-for-users
+  - title: For Users
+    collection: for-users
   - title: For Employers
     collection: for-employers
   - title: Get onboard
