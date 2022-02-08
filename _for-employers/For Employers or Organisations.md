@@ -21,15 +21,25 @@ If a HCW has not given you consent, please direct them to [go.gov.sg/sync](https
 
 ### **What is in the .CSV file?**
 
-**Data fields on [art_results.csv]:**
+#### **1. Data fields on: vaccination_status.csv**
 
-1.  UIN: **Unique Identification Number** (NRIC, FIN number)
 
-2.  test_id: Each test result submitted will be tagged to a unique test_id. The test id only serves as a way to differentiate two different tests. 
+* UIN: **Unique Identification Number** (NRIC, FIN number)
+* Vaccination status: There are only two vaccination status:	
+	* vaccinated
+	* not_vaccinated
+
+
+
+#### **2. Data fields on: art_results.csv**
+
+*   UIN: **Unique Identification Number** (NRIC, FIN number)
+
+*   test_id: Each test result submitted will be tagged to a unique test_id. The test id only serves as a way to differentiate two different tests. 
 
 *You may ignore this field if it is not needed.*
 
-3.  administration_mode: This can either be **supervised or unsupervised**
+*   administration_mode: This can either be **supervised or unsupervised**
 * Supervised: taken at QTC or clinics.
 * Unsupervised: self swabs taken at individual’s convenience.
 
@@ -43,3 +53,5 @@ If a HCW has not given you consent, please direct them to [go.gov.sg/sync](https
 
 * Self-swabs: users submit the ART form with no test brand included. This field will be displayed as **Others**.
 
+
+**Data fields on [art_results.csv]:**
