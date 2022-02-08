@@ -1,5 +1,5 @@
 collections:
-  sync-for-organisations:
+  for-employers:
     output: true
     order:
       - Admin's View.md
