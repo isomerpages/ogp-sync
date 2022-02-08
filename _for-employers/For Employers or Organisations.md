@@ -68,6 +68,3 @@ If a HCW has not given you consent, please direct them to [go.gov.sg/sync](https
 
 
 * time_stamp: Exact **date and time** of when this test was taken
-
-
-
