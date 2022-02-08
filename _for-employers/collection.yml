@@ -2,5 +2,5 @@ collections:
   for-employers:
     output: true
     order:
-      - Steps to take.md
       - For Employers or Organisations.md
+      - Steps to take.md
