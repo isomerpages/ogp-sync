@@ -58,3 +58,16 @@ If a HCW has not given you consent, please direct them to [go.gov.sg/sync](https
 	* Self-swabs: users submit the ART form with no test brand included. This field will be displayed as **Others**.
 
 
+
+#### **3. Data fields on: pcr_results.csv**
+
+*   UIN: **Unique Identification Number** (NRIC, FIN number)
+
+
+*   test_results: Either **positive or negative**
+
+
+* time_stamp: Exact **date and time** of when this test was taken
+
+
+
