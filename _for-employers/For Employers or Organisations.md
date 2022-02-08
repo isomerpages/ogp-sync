@@ -16,8 +16,7 @@ All three CSV files will be sent in a password-protected folder. The password wi
 
 If a HCW has not given you consent, please direct them to [go.gov.sg/sync](https://sync.covid.gov.sg/) to log in and share their data with you.
 
-*You should share one company email address for the daily reports to be sent to.
-*
+*You should share one company email address for the daily reports to be sent to.*
 
 ### **What is in the .CSV file?**
 
@@ -25,6 +24,8 @@ If a HCW has not given you consent, please direct them to [go.gov.sg/sync](https
 
 
 * UIN: **Unique Identification Number** (NRIC, FIN number)
+
+
 * Vaccination status: There are only two vaccination status:	
 	* vaccinated
 	* not_vaccinated
@@ -35,23 +36,25 @@ If a HCW has not given you consent, please direct them to [go.gov.sg/sync](https
 
 *   UIN: **Unique Identification Number** (NRIC, FIN number)
 
+
 *   test_id: Each test result submitted will be tagged to a unique test_id. The test id only serves as a way to differentiate two different tests. 
 
 *You may ignore this field if it is not needed.*
 
 *   administration_mode: This can either be **supervised or unsupervised**
-* Supervised: taken at QTC or clinics.
-* Unsupervised: self swabs taken at individual’s convenience.
+	* Supervised: taken at QTC or clinics.
+	* Unsupervised: self swabs taken at individual’s convenience.
 
-4.  produced_at: Date when test is taken. 
-
-5.  result: This can either be **positive or negative.**
-
-6.  test_type: **ART** 
-
-7.  brand: Supervised swabs: The brand of the test kit - **BD Veritor, SD Biosensor, Standard Q, Abbott Pandio Covid-19 AG.**
-
-* Self-swabs: users submit the ART form with no test brand included. This field will be displayed as **Others**.
+*   produced_at: Date when test is taken. 
 
 
-**Data fields on [art_results.csv]:**
+*   result: This can either be **positive or negative.**
+
+
+*   test_type: **ART** 
+
+
+*   brand: Supervised swabs: The brand of the test kit - **BD Veritor, SD Biosensor, Standard Q, Abbott Pandio Covid-19 AG.**
+	* Self-swabs: users submit the ART form with no test brand included. This field will be displayed as **Others**.
+
+
