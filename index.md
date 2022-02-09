@@ -12,11 +12,11 @@ sections:
       button: VISIT SYNC
       url: https://sync.covid.gov.sg/
       key_highlights:
-        - title: Get Onboard
-          description: with Corppass
+        - title: I AM AN EMPLOYER
+          description: Interested to use Sync
           url: ""
-        - title: Recommend Sync
-          description: lorem ipsum
+        - title: I am a employee
+          description: Lorem ipsum
           url: ""
   - infopic:
       title: Infopic Title
