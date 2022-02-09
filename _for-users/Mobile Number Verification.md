@@ -12,4 +12,5 @@ Enter your mobile number upon submitting your ART  details and verify on Sync fo
 
 ### **How do I update my mobile number?**
 ![Alt text for image on Isomer site](/images/guide/Profile%20verification.png)
+
 You can always update or change your mobile number by **accessing your profile page under the menu.** After which, you will need to verify your new mobile number via an OTP verification.
