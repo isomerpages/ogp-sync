@@ -2,8 +2,8 @@ collections:
   for-users:
     output: true
     order:
-      - Submitting ART result.md
       - Step by Step Guide.md
       - Mobile Number Verification.md
+      - Submitting ART result.md
       - Past Submissions.md
       - Data Privacy & Sharing.md
