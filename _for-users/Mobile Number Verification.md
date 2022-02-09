@@ -9,4 +9,4 @@ Enter your phone number details and verify on Sync for automatic retrieval. You 
 
 
 ### **How do I update my mobile number?**
-You can always update or change your mobile number by accessing your profile page under the menu. After which, you will need to verify your new mobile number via an OTP verification. 
+You can always update or change your mobile number by **accessing your profile page under the menu.** After which, you will need to verify your new mobile number via an OTP verification.
