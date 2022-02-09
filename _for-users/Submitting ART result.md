@@ -12,7 +12,3 @@ Your name, NRIC / FIN & mobile number will be automatically added to the self-sw
 You’re done! You will return back to the Sync dashboard automatically. 
 
 The submitted data will be sent to organisations you have consented to share your data with, and the MOH database for collation.
-
-
-
-
