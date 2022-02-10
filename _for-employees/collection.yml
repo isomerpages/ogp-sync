@@ -2,8 +2,8 @@ collections:
   for-employees:
     output: true
     order:
-      - Adding Recipient.md
       - Getting onto Sync.md
+      - Adding Recipient.md
       - Mobile Number Verification.md
       - Submitting ART result.md
       - Past Submissions.md
