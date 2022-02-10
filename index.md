@@ -12,11 +12,11 @@ sections:
       button: GET STARTED
       url: https://sync.covid.gov.sg/
       key_highlights:
-        - title: I AM AN EMPLOYER
-          description: Interested to use Sync
+        - title: I am an employer
+          description: Get onboarded on sync
           url: ""
         - title: I am a employee
-          description: Lorem ipsum
+          description: Interested to find out more
           url: ""
   - infopic:
       title: Infopic Title
