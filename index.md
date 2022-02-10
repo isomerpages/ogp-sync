@@ -25,20 +25,29 @@ sections:
       button: Learn more
       url: "-"
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Submit ART Results
+      subtitle: For Employee
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Share Results
+      subtitle: For Employee
+      description: "After submitting their ART results, employees can provide consent
+        to organisation(s) to access their Covid-19 data, and may also remove
+        consent at any time. "
+      button: Learn more
       alt: Image alt text
+      url: "-"
+  - infopic:
+      title: Receive Results
+      subtitle: For Employers
+      description: Infopic description
+      button: Learn more
+      alt: Image alt text
+      url: "-"
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
+      title: Get Started Today
       description: Infobar description
       button: Button Text
 ---
