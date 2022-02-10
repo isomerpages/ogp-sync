@@ -50,7 +50,7 @@ sections:
       url: "-"
   - infobar:
       title: Interested to onboard?
-      description: Join organisations like Grab, Gojek that have already onboarded!
+      description: It is easy to get started. Contact us for a seamless onboarding journey.
       button: Contact Us
       url: "-"
 ---
