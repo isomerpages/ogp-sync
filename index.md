@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner_final.svg
-      button: CONTACT US
+      button: GET STARTED
       url: https://sync.covid.gov.sg/
       key_highlights:
         - title: I AM AN EMPLOYER
