@@ -16,14 +16,14 @@ sections:
           description: Interested to know more
           url: ""
         - title: I am an employer
-          description: Get onboard on sync
-          url: ""
+          description: Get onboarded on sync
+          url: /sync-for-employers/receiving-results
       subtitle: Used by organisations like Grab, Gojek and more
   - infobar:
       title: What is sync?
       description: Sync facilitates sharing of COVID-19 data between employees and
         organisations.
-      button: About SYnc
+      button: About Sync
       url: /about-sync/
   - infopic:
       title: Add recipients
