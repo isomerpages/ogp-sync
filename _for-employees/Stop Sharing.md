@@ -3,8 +3,7 @@ title: Stop Sharing
 permalink: /for-employees/stopsharing
 description: ""
 ---
-
-**How to stop sharing?**
+### **How do I stop sharing?**
 
 ![Alt text for image on Isomer site](/images/guide/Toggle%20off.png)
 
