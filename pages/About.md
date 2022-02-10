@@ -27,4 +27,6 @@ Presently, Sync shares COVID-19 ART and PCR swab tests results, and vaccination 
 
 
 ### **Beyond COVID-19 records**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec faucibus arcu. Sed ac tortor luctus, lobortis orci venenatis, blandit arcu. Nam id pellentesque lacus. Quisque aliquet libero tempor, aliquet urna non, blandit nibh. Donec elit lectus, dictum vel elementum vitae, lobortis quis diam. Aliquam erat volutpat. Curabitur ac feugiat orci.
+Have a use case for Sync? 
+
+Do let us know at: https://go.gov.sg/sync-feedback.
