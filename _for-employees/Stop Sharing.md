@@ -5,7 +5,7 @@ description: ""
 ---
 ### **How do I stop sharing?**
 
-![](/images/guide/Toggle%20off.png)
+![](/images/Toggle%20off.png)
 
 **Simply toggle the icon off.** Organisations will appear greyed out once you stop sharing your records with them.
 
