@@ -24,7 +24,7 @@ sections:
       description: Sync facilitates sharing of Covid-19 data between employees and
         organisations.
       button: Learn more
-      url: "-"
+      url: /about-sync/
   - infopic:
       title: Submit ART Results
       subtitle: For Employee
