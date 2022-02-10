@@ -5,8 +5,9 @@ description: ""
 ---
 You can easily submit a self-swab ART result on Sync. 
 
-![](/images/guide/ART%20result1.png)
 Tap on the **'Submit ART Result'** button. 
+
+![](/images/guide/ART%20result1.png)
 
 ![](/images/guide/ART%20result2.png)
 
