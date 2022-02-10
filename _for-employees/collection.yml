@@ -1,5 +1,5 @@
 collections:
-  for-users:
+  for-employees:
     output: true
     order:
       - Step by Step Guide.md
