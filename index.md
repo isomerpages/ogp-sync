@@ -33,6 +33,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: "-"
+      image: /images/guide/Add recipient.png
   - infopic:
       title: Submit ART Results
       subtitle: For Employee
