@@ -3,7 +3,7 @@ title: About
 permalink: /what-is-sync/about
 description: ""
 ---
-![Alt text for image on Isomer site](/images/iPhone%20Mockup.jpg)
+![](/images/iPhoneX_In_Hand_MockupsForFree.jpg)
 
 ### **Keep your COVID-19 records in sync**
 Sync is a government web portal initiated by the Ministry of Health and [Open Government Products](https://www.open.gov.sg/), GovTech, for anyone to share and submit COVID-19 records (vaccination and test records) with organisations remotely. Using Sync is like making a financial transaction; instead of money, Sync allows individuals to choose who to share their COVID-19 health records with, and can remove their consent at any time. 
