@@ -15,7 +15,7 @@ sections:
         - title: I am an employer
           description: Get onboarded on sync
           url: ""
-        - title: I am a employee
+        - title: I am an employee
           description: Interested to find out more
           url: ""
   - infopic:
