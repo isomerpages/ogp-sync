@@ -340,7 +340,7 @@ $desktop: 960px + (2 * $gap) !default;
 	background: unset;
 	
     .has-text-white{
-      color: #005950 !important;
+      color: {{- site.colors.primary-color -}} !important;
 	}
 
 }
