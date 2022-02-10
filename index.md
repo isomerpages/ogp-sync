@@ -53,7 +53,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: "-"
-      image: /images/LANDING3.png
+      image: /images/LANDING5.png
   - infobar:
       title: Interested to onboard?
       description: It is easy to get started. Contact us for a seamless onboarding journey.
