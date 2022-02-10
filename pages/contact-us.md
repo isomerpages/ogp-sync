@@ -7,6 +7,6 @@ contacts:
   - content:
       - phone: ""
       - email: healthtech@open.gov.sg
-      - other: "FAQs: <i>https://ask.gov.sg/agency/sync </i>"
+      - other: ""
     title: General Enquiries & Feedback
 ---
