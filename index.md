@@ -58,6 +58,5 @@ sections:
       title: Interested to onboard?
       description: It is easy to get started. Contact us for a seamless onboarding journey.
       button: Contact Us
-      url: "-"
+      url: /contact-us/
 ---
-
