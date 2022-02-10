@@ -29,7 +29,7 @@ sections:
       title: Add recipients
       subtitle: For Employee
       description: "Employees can give consent to organisation(s) to access their
-        Covid-19 data, but may also remove consent at any time. "
+        COVID-19 data, but may also remove consent at any time. "
       button: Learn more
       alt: Image alt text
       url: /sync-for-users/getting-to-sync
