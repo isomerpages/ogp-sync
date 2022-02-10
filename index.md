@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: Submit ART Results
       subtitle: For Employee
-      description: Infopic description
+      description: You can also use Sync to submit your daily or weekly ART results easily.
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
