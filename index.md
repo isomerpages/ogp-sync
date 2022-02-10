@@ -34,7 +34,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /sync-for-users/getting-to-sync
-      image: /images/guide/Add recipient.png
+      image: /images/Add recipient (landing).png
   - infopic:
       title: Submit ART Results
       subtitle: For Employee
@@ -58,4 +58,3 @@ sections:
       button: Contact Us
       url: "-"
 ---
-
