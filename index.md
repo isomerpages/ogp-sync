@@ -18,6 +18,12 @@ sections:
         - title: I am an employer
           description: Get onboard on sync
           url: ""
+  - infobar:
+      title: About Sync
+      description: Sync facilitates sharing of Covid-19 data between employees and
+        organisations.
+      button: Learn more
+      url: "-"
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
