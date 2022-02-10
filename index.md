@@ -34,7 +34,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
-      image: /images/Add recipient(landing page).svg
+      image: /images/LANDING1.svg
   - infopic:
       title: Submit ART Results
       subtitle: For Employee
@@ -44,6 +44,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
+      image: /images/LANDING2.svg
   - infopic:
       title: Receive Results
       subtitle: For Employers
@@ -52,6 +53,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: "-"
+      image: /images/LANDING3.svg
   - infobar:
       title: Interested to onboard?
       description: It is easy to get started. Contact us for a seamless onboarding journey.
