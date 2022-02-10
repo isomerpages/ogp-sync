@@ -12,7 +12,9 @@ description: ""
 
 ![](/images/guide/Delete.png)
 
-To delete the organisation from your recipient list, **tap on the 'i' button** beside the organisation's name and **tap on 'Delete'**. This recipient will be removed from your homepage and sharing will be paused. You can always add it back by tapping on the 'Add recipient' button. 
+To delete the organisation from your recipient list, click or tap on **'i'** beside the organisation's name, followed by **'Delete'**. This recipient will be removed from your homepage and sharing will be paused.
+
+You can always add the organisations back by tapping on the **'Add recipient'** button. 
 
 
 
