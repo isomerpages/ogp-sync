@@ -4,7 +4,7 @@ permalink: /sync-for-users/getting-to-sync
 description: ""
 ---
 ### **1. Getting onto Sync**
-
+![](/images/guide/Combined.png)
 
 Sign in with the invite link sent from your organisation. There is no download required.
 
