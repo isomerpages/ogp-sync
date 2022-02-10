@@ -2,7 +2,7 @@ collections:
   for-employees:
     output: true
     order:
-      - Adding recipient.md
+      - Adding Recipient.md
       - Getting onto Sync.md
       - Mobile Number Verification.md
       - Submitting ART result.md
