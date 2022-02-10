@@ -29,8 +29,8 @@ sections:
   - infopic:
       title: Add recipients
       subtitle: For Employee
-      description: "Employees can give consent to organisation(s) to access their
-        COVID-19 records, but may also remove consent at any time. "
+      description: Employees can give consent to organisation(s) to access their
+        COVID-19 records. Consent can be revoked at any time.
       button: Learn more
       alt: Image alt text
       url: /sync-for-users/getting-to-sync
