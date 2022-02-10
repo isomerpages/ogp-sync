@@ -35,3 +35,7 @@ Use the SingPass Mobile App to log in. Tap on the SingPass QR code.
 After authenticating through the SingPass mobile app, you may not be redirected back to the Sync portal automatically.
 
 Please exit the SingPass mobile app and head back to your browser in order to return back to Sync portal.
+
+
+___
+
