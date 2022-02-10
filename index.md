@@ -29,8 +29,9 @@ sections:
       title: Submit ART Results
       subtitle: For Employee
       description: Infopic description
-      button: Button Text
+      button: Learn more
       alt: Image alt text
+      url: "-"
   - infopic:
       title: Share Results
       subtitle: For Employee
