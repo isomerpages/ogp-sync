@@ -20,6 +20,7 @@ Alternatively, visit the Sync portal on your mobile phone browser:
 Tap on the SingPass QR code.
 
 **Note: Sync can only be accessed through the SingPass mobile app.** 
+
 SingPass password login is not allowed.
 
 * You may install SingPass Mobile app on: 
