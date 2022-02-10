@@ -28,7 +28,7 @@ sections:
       url: /about-sync
   - infopic:
       title: Add recipients
-      subtitle: For Employee
+      subtitle: For Employees
       description: Employees can give consent to organisation(s) to access their
         COVID-19 records. Consent can be revoked at any time.
       button: Learn more
@@ -37,7 +37,7 @@ sections:
       image: /images/LANDING10.svg
   - infopic:
       title: Submit ART Results
-      subtitle: For Employee
+      subtitle: For Employees
       description: "Submit a self-swab ART result with 3 clicks. The results will be
         shared automatically with organisation(s) that have been given consent.
         "
