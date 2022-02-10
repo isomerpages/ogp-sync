@@ -5,8 +5,6 @@ date: 2022-02-10
 layout: post
 description: ""
 ---
-
-
 ### **Sync Terms of Use**
 
 Sync is a Government Agency digital service.
@@ -131,6 +129,4 @@ Sync may revise this Notice from time to time without any prior notice. You may 
 
 By using Sync, you acknowledge that you have read and understood the above Data Protection Notice, and consent to the collection, use and disclosure of my personal data by the selected non-government entities for the purposes set out in the Notice. 
 
-You authorise the sharing of your data records from the date of providing consent via sync. 
-
-
+You authorise the sharing of your data records from the date of providing consent via sync.
