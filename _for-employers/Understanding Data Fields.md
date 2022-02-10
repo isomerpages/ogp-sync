@@ -3,8 +3,6 @@ title: Understanding Data Fields
 permalink: /sync-for-employers/understanding-data-fields
 description: ""
 ---
-
-
 ### **Understanding Data Fields**
 
 #### **1. Data fields on: vaccination_status.csv**
