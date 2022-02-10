@@ -24,7 +24,7 @@ sections:
       description: Sync facilitates sharing of COVID-19 data between employees and
         organisations.
       button: About Sync
-      url: /about-sync/
+      url: /about-sync
   - infopic:
       title: Add recipients
       subtitle: For Employee
