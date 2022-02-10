@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: Receive Results
       subtitle: For Employers
-      description: Sync sends organisations daily reports of consolidated Covid-19
+      description: Sync sends organisations daily reports of consolidated COVID-19
         statuses of individuals who provided them consent.
       button: Learn more
       alt: Image alt text
