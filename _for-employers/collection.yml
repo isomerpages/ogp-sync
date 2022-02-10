@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Receiving Results.md
-      - What's in the CSV.md
+      - Results Format.md
