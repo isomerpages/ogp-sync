@@ -20,10 +20,10 @@ sections:
           url: ""
       subtitle: Used by organisations like Grab, Gojek and more
   - infobar:
-      title: About Sync
+      title: What is sync?
       description: Sync facilitates sharing of COVID-19 data between employees and
         organisations.
-      button: Learn more
+      button: About SYnc
       url: /about-sync/
   - infopic:
       title: Add recipients
