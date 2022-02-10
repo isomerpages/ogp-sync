@@ -7,7 +7,7 @@ description: ""
 ---
 ### **What data does Sync have access to?**
 
-Sync only pulls your health data (vaccination status, ART and PCR swab results) from the MOH database, and name and NRIC from MyInfo. With the exception of your mobile number, we do not store your data on Sync.
+Sync only pulls your health data (vaccination status, ART / PCR swab results) from the MOH database, and name and NRIC from MyInfo. With the exception of your mobile number, we do not store your data on Sync.
 
 ### **Does Sync store my health data?**
 
