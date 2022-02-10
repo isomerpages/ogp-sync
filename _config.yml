@@ -2,11 +2,11 @@ title: Keep your COVID-19 records in sync
 url: ""
 favicon: /images/Sync_512px.png
 colors:
-  primary-color: "##186181"
+  primary-color: "#186181"
   secondary-color: "#33aaaa"
   media-colors:
     - title: media-color-one
-      color: "#186181"
+      color: "##186181"
     - title: media-color-two
       color: "#186181"
     - title: media-color-three
