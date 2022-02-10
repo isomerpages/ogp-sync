@@ -3,7 +3,7 @@ title: Adding Recipient
 permalink: /for-employees/add-recipient
 description: ""
 ---
-### **1. Adding recipient**
+### **Adding recipient**
 ![Alt text for image on Isomer site](/images/guide/Add%20recipient.png)
 *Note: You may skip this step if you have received an invite link from your organisation.*
 
@@ -15,7 +15,7 @@ To do so, tap or click on the **'Add recipient'** button.
 Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
 
 
-### **2. Enter organisation code**
+### **Enter organisation code**
 ![Alt text for image on Isomer site](/images/guide/Enter%20code.png)
 
 *Note: You may skip this step if you received an invite link from your organisation.*
@@ -24,7 +24,7 @@ Key in the organisation code provided and tap or click **'Next'.** - Speak to yo
 
 If you are working with multiple organisations, please add and provide consent separately.
 
-### **3. Provide consent to share records**
+### **Provide consent to share records**
 ![Alt text for image on Isomer site](/images/guide/Consent.png)
 
 A summary of the health records to be shared will be shown:
@@ -37,7 +37,7 @@ Tap or click  **'I consent to sharing my records'.**
 
 
 
-### **4. You're all set!**
+### **You're all set!**
 ![Alt text for image on Isomer site](/images/guide/Toggle%20on.png)
 
 Your organisation will appear in your list of recipients.
