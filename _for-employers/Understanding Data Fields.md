@@ -42,9 +42,9 @@ description: ""
 *  **test_type:** ART 
 
 
-*   **brand:** Supervised swabs:
-	*   The brand of the test kit - 'BD Veritor', 'SD Biosensor', 'Standard Q', 'Abbott Pandio Covid-19 AG'.
-	* Self-swabs: users submit the ART form with no test brand included. This field will be displayed as 'Others'.
+*   **brand:**
+	*   For supervised swabs: The brand of the test kit - 'BD Veritor', 'SD Biosensor', 'Standard Q', 'Abbott Pandio Covid-19 AG'.
+	* For self-swabs: users submit the ART form with no test brand included. This field will be displayed as 'Others'.
 
 
 
