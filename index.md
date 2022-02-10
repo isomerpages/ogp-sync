@@ -33,7 +33,7 @@ sections:
         COVID-19 records. Consent can be revoked at any time.
       button: Learn more
       alt: Image alt text
-      url: /sync-for-users/getting-to-sync
+      url: /for-employees/add-recipient
       image: /images/Add recipient(landing page).svg
   - infopic:
       title: Submit ART Results
