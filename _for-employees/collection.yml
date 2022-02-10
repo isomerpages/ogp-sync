@@ -2,7 +2,7 @@ collections:
   for-employees:
     output: true
     order:
-      - Step by Step Guide.md
+      - Getting onto Sync.md
       - Mobile Number Verification.md
       - Submitting ART result.md
       - Past Submissions.md
