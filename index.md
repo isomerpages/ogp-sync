@@ -28,15 +28,17 @@ sections:
   - infopic:
       title: Add recipients
       subtitle: For Employee
-      description: "Employees can provide consent to organisation(s) to access their
-        Covid-19 data, and may also remove consent at any time. "
+      description: "Employees can give consent to organisation(s) to access their
+        Covid-19 data, but may also remove consent at any time. "
       button: Learn more
       alt: Image alt text
       url: "-"
   - infopic:
       title: Submit ART Results
       subtitle: For Employee
-      description: Submit a self-swab ART result with 3 clicks.
+      description: "Submit a self-swab ART result with 3 clicks. The results will be
+        shared automatically with organisation (s) that have been given consent.
+        "
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
