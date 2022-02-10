@@ -21,7 +21,7 @@ sections:
       subtitle: Used by organisations like Grab, Gojek and more
   - infobar:
       title: About Sync
-      description: Sync facilitates sharing of Covid-19 data between employees and
+      description: Sync facilitates sharing of COVID-19 data between employees and
         organisations.
       button: Learn more
       url: /about-sync/
