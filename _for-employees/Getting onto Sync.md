@@ -39,3 +39,5 @@ Please exit the SingPass mobile app and head back to your browser in order to re
 
 ___
 
+#### **Forgot your Singpass password?**
+[Reset it online](https://www.singpass.gov.sg/home/ui/login) OR head down to your [nearest Singpass counter](https://www.singpass.gov.sg/singpass/common/counter).
