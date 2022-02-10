@@ -3,7 +3,6 @@ title: What's in the CSV
 permalink: /for-employers/whatsinthecsv
 description: ""
 ---
-
 ### **What is in the .CSV file?**
 
 #### **1. Data fields on: vaccination_status.csv**
