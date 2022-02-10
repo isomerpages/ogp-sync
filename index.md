@@ -31,7 +31,7 @@ sections:
       description: Infopic description
       button: Learn more
       alt: Image alt text
-      url: "-"
+      url: /for-users/art-result
   - infopic:
       title: Share Results
       subtitle: For Employee
