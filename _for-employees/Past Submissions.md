@@ -4,6 +4,9 @@ permalink: /sync-for-users/past-submissions
 description: ""
 ---
 ### **Vaccination Status and Submission History**
+
+
+
 Vaccination status and ART / PCR submission history can be accessed from the menu.
 
 Vaccination status will show either vaccinated or not-vaccinated, and includes booster doses.
