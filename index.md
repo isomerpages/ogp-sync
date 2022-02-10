@@ -44,7 +44,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
-      image: /images/LANDING20.svg
+      image: /images/LANDING_ART.svg
   - infopic:
       title: Receive Results
       subtitle: For Employers
