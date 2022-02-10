@@ -9,7 +9,6 @@ Tap on the **'Submit ART Result'** button.
 
 ![](/images/guide/ART%20result1.png)
 
-![](/images/guide/ART%20result2.png)
 
 Your name, NRIC / FIN & mobile number will be automatically added to the self-swab submission form. **Select the date, time, result, and tap on the Submit button once you're done.**
 
