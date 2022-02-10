@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: I am an employee
           description: Interested to know more
-          url: ""
+          url: /sync-for-users/getting-to-sync
         - title: I am an employer
           description: Get onboarded on sync
           url: /sync-for-employers/receiving-results
