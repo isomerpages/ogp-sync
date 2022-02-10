@@ -5,7 +5,7 @@ date: 2022-02-03
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/iPhone%20Mockup.jpg)
+![](/images/iPhoneX_In_Hand_MockupsForFree2.jpg)
 
 ### **Keep your COVID-19 records in sync**
 Sync is a government web portal initiated by the Ministry of Health and [Open Government Products](https://www.open.gov.sg/), GovTech, for anyone to share and submit COVID-19 records with organisations remotely.
