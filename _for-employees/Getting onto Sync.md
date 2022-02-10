@@ -3,8 +3,6 @@ title: Getting onto Sync
 permalink: /sync-for-users/getting-to-sync
 description: ""
 ---
-
-
 ### **1. Getting onto Sync**
 ![Alt text for image on Isomer site](/images/guide/Combined.png)
 
