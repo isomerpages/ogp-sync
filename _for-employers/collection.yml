@@ -2,5 +2,5 @@ collections:
   for-employers:
     output: true
     order:
-      - For Employers or Organisations.md
+      - Receiving Results.md
       - What's in the CSV.md
