@@ -2,8 +2,8 @@ logo: /images/SYNC_LOGO_ISOMER.png
 links:
   - title: About
     url: /about-sync/
-  - title: For Users
-    collection: for-users
+  - title: For Employees
+    collection: for-employees
   - title: For Employers
     collection: for-employers
   - title: Get onboard
