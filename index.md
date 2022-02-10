@@ -21,8 +21,9 @@ sections:
       subtitle: Used by organisations like Grab, Gojek and more
   - infobar:
       title: What is Sync?
-      description: Sync facilitates sharing of COVID-19 data between employees and
-        organisations.
+      description: Sync is a government web portal that facilitates sharing of
+        COVID-19 data between employees and organisations that was build by OGP
+        in collaboration with MOH.
       button: About Sync
       url: /about-sync
   - infopic:
@@ -57,4 +58,3 @@ sections:
       button: Contact Us
       url: "-"
 ---
-
