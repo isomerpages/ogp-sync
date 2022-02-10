@@ -52,5 +52,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-sync-staging.netlify.app
 prod: https://ogp-sync-prod.netlify.app
-shareicon: /images/SYNC ISOMER LOGO_24PX.jpg
+shareicon: /images/SYNC ISOMER LOGO_32PX.svg
 is_government: true
