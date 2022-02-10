@@ -2,7 +2,7 @@
 layout: homepage
 title: Keep your COVID-19 records in sync
 description: Keep your COVID-19 records in sync.
-image: /images/SYNC ISOMER LOGO_32PX.svg
+image: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 permalink: /
 notification: ""
 sections:
@@ -60,3 +60,4 @@ sections:
       button: Contact Us
       url: "-"
 ---
+
