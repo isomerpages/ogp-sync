@@ -32,7 +32,7 @@ sections:
         Covid-19 data, but may also remove consent at any time. "
       button: Learn more
       alt: Image alt text
-      url: "-"
+      url: /sync-for-users/getting-to-sync
       image: /images/guide/Add recipient.png
   - infopic:
       title: Submit ART Results
