@@ -17,5 +17,4 @@ Do remember to remove consent from organisations that you have left.
 
 
 ### **How does Sync protect privacy?**
-
 Sync is a consent based system that puts the control of user's health data in their hands. Users may share and remove access to their health data with organisations as and when required.
