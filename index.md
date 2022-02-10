@@ -39,7 +39,7 @@ sections:
       title: Submit ART Results
       subtitle: For Employee
       description: "Submit a self-swab ART result with 3 clicks. The results will be
-        shared automatically with organisation (s) that have been given consent.
+        shared automatically with organisation(s) that have been given consent.
         "
       button: Learn more
       alt: Image alt text
