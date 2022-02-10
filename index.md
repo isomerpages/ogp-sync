@@ -20,7 +20,7 @@ sections:
           url: /sync-for-employers/receiving-results
       subtitle: Used by organisations like Grab, Gojek and more
   - infobar:
-      title: What is sync?
+      title: What is Sync?
       description: Sync facilitates sharing of COVID-19 data between employees and
         organisations.
       button: About Sync
@@ -57,4 +57,3 @@ sections:
       button: Contact Us
       url: "-"
 ---
-
