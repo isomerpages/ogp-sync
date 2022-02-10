@@ -18,7 +18,7 @@ sections:
         - title: I am an employer
           description: Get onboarded on sync
           url: /sync-for-employers/receiving-results
-      subtitle: Used by organisations like Grab, Gojek and more
+      subtitle: Used by organisations like TTSH, Grab, Gojek and more
   - infobar:
       title: What is Sync?
       description: Sync is a government web portal that facilitates sharing of
