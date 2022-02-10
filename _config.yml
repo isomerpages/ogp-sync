@@ -1,6 +1,6 @@
 title: Keep your COVID-19 records in sync
 url: ""
-favicon: /images/Sync_512px.png
+favicon: /images/SYNC LOGO_512px.png
 colors:
   primary-color: "##186181"
   secondary-color: "##33aaaa"
@@ -52,5 +52,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-sync-staging.netlify.app
 prod: https://ogp-sync-prod.netlify.app
-shareicon: /images/Sync-logo.svg
+shareicon: /images/SYNC LOGO_512px.png
 is_government: true
