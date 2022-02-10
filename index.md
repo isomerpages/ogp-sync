@@ -18,6 +18,7 @@ sections:
         - title: I am an employer
           description: Get onboard on sync
           url: ""
+      subtitle: Used by organisations like Grab, Gojek and more
   - infobar:
       title: About Sync
       description: Sync facilitates sharing of Covid-19 data between employees and
@@ -42,12 +43,14 @@ sections:
   - infopic:
       title: Receive Results
       subtitle: For Employers
-      description: Infopic description
+      description: Sync sends organisations daily reports of consolidated Covid-19
+        statuses of individuals who provided them consent.
       button: Learn more
       alt: Image alt text
       url: "-"
   - infobar:
-      title: Get Started Today
-      description: Infobar description
-      button: Button Text
+      title: Interested to onboard?
+      description: Join organisations like Grab, Gojek that have already onboarded!
+      button: Contact Us
+      url: "-"
 ---
