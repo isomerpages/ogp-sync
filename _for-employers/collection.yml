@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Receiving Results.md
-      - Results Format.md
+      - Understanding the Data Fields.md
