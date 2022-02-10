@@ -5,25 +5,24 @@ description: ""
 ---
 ### **1. Adding recipient**
 ![Alt text for image on Isomer site](/images/guide/Add%20recipient.png)
-*You may skip this step if you received an invite link from your organisation.*
+*Note: You may skip this step if you have received an invite link from your organisation.*
 
-In order for your organisation to access your health records, users need to provide consent.
+In order for your organisation to access your health records, you would need to provide consent.
 
 To do so, tap or click on the **'Add recipient'** button.
 
-**Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
+**Important:
+Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
 
 
 ### **2. Enter organisation code**
 ![Alt text for image on Isomer site](/images/guide/Enter%20code.png)
 
-*You may skip this step if you received an invite link from your organisation.*
+*Note: You may skip this step if you received an invite link from your organisation.*
 
-**Key in the organisation code provided and tap or click Next.** Speak to your HR or manager to obtain your organisation code. 
+Key in the organisation code provided and tap or click **'Next'.** - Speak to your HR or manager to obtain your organisation code.
 
 If you are working with multiple organisations, please add and provide consent separately.
-
-**Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
 
 ### **3. Provide consent to share records**
 ![Alt text for image on Isomer site](/images/guide/Consent.png)
@@ -36,7 +35,7 @@ Tick the checkbox after reading through the page to acknowledge.
 
 Tap or click  **'I consent to sharing my records'.**
 
-**Important: Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
+
 
 ### **4. You're all set!**
 ![Alt text for image on Isomer site](/images/guide/Toggle%20on.png)
