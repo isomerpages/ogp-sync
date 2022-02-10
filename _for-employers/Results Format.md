@@ -3,7 +3,7 @@ title: Results Format
 permalink: /sync-for-employers/results-format
 description: ""
 ---
-### **Results Format**
+### **Understanding Data Fields**
 
 #### **1. Data fields on: vaccination_status.csv**
 
