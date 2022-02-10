@@ -3,6 +3,8 @@ title: Submitting ART result
 permalink: /for-users/art-result
 description: ""
 ---
+![](/images/ART%20result.png)
+
 You can easily submit a self-swab ART result on Sync. 
 
 Tap on the **'Submit ART Result'** button. 
