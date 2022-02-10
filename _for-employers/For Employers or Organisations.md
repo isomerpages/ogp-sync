@@ -3,7 +3,7 @@ title: For Employers or Organisations
 permalink: /sync-for-organisations/employers
 description: ""
 ---
-At this phase, admins will receive reports in your email daily between 8-9AM. 
+At this phase, employees will receive reports in your email daily between 8-9AM. 
 
 The email will contain 3 csv files :
 * vaccination_status.csv
