@@ -1,5 +1,0 @@
-collections:
-  what-is-sync:
-    output: true
-    order:
-      - About.md
