@@ -9,14 +9,14 @@ sections:
   - hero:
       title: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner8.svg
-      button: GET STARTED
+      button: SIGN IN
       url: https://sync.covid.gov.sg/
       key_highlights:
         - title: I am an employee
-          description: Interested to know more
+          description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
         - title: I am an employer
-          description: Get onboarded on sync
+          description: Onboard to Sync today
           url: /sync-for-employers/receiving-results
       subtitle: Used by organisations like TTSH, Grab, Gojek and more
   - infobar:
