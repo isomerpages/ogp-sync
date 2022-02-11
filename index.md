@@ -17,7 +17,7 @@ sections:
           url: /sync-for-users/getting-to-sync
         - title: I am an employer
           description: Onboard to Sync today
-          url: /sync-for-employers/receiving-results
+          url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
       subtitle: Used by organisations like TTSH, Grab, Gojek and more
   - infobar:
       title: What is Sync?
