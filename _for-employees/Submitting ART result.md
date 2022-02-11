@@ -11,10 +11,8 @@ Tap on the **'Submit ART Result'** button.
 
 ![](/images/guide/ART%20result3.png)
 
-Your name, NRIC / FIN & mobile number will be automatically added to the self-swab submission form. Select the **Date, Time, Result**, and tap on **'Submit'** once you're done.
+Your name, NRIC / FIN & mobile number will be automatically added to the self-swab submission form. Select the **Result**, and tap on **Submit**. If necessary, you may also change the date and time of submission.
 
 You’re done! You will return back to the Sync dashboard automatically. 
 
-The submitted data will be sent to organisations you have consented to share your data with.
-
-**Note: Your data will also be stored in MOH's Database**
+The submitted data will be sent to organisations you have consented to share your data with, and **stored on the MOH database**. Sync does not store your health data on our system.
