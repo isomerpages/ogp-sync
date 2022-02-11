@@ -4,7 +4,7 @@ permalink: /for-employees/add-recipient
 description: ""
 ---
 ### **Adding recipient**
-![Alt text for image on Isomer site](/images/guide/Add%20recipient.png)
+![](/images/Add%20recipient.svg)
 ***Note: Please skip this step if you have received an invite link from your organisation.***
 
 You will need to provide **consent** to your organisation to access your health records.
@@ -16,7 +16,7 @@ Only share your health records with your organisation. Unrelated organisations w
 
 
 ### **Enter organisation code**
-![Alt text for image on Isomer site](/images/guide/Enter%20code.png)
+![](/images/Enter%20code.svg)
 
 ***Note: Please skip this step if you have received an invite link from your organisation.***
 
@@ -27,7 +27,7 @@ Speak to your manager or HR team to obtain your organisation code. For companies
 If you are working with multiple organisations, please repeat this step to add and provide consent to each organisation separately.
 
 ### **Provide consent to share records**
-![Alt text for image on Isomer site](/images/guide/Consent.png)
+![](/images/Consent.svg)
 
 A summary of the health records to be shared will be shown:
 * COVID-19 Vaccination status 
@@ -40,7 +40,7 @@ Tap or click  **'I consent to sharing my records'.**
 
 
 ### **You're all set!**
-![Alt text for image on Isomer site](/images/guide/Toggle%20on.png)
+![](/images/Toggle%20on.svg)
 
 Your organisation will appear in your list of recipients. You may toggle off the sharing button if you have left your organisation. 
 
