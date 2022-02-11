@@ -8,12 +8,9 @@ description: ""
 ![](/images/iPhoneX_In_Hand_MockupsForFree2.jpg)
 
 ### **Keep your COVID-19 records in sync**
-Sync is a government web portal initiated by the Ministry of Health and [Open Government Products](https://www.open.gov.sg/), GovTech, for anyone to share and submit COVID-19 records with organisations remotely.
-
-Using Sync is like making a financial transaction; instead of money, Sync allows individuals to choose who to share their COVID-19 health records with, and can remove their consent at any time. 
+Sync is a web platform developed by [Open Government Products](https://www.open.gov.sg/) that enables consent-based sharing of COVID-19 test results and vaccination records. Developed in collaboration with the Ministry of Health, Sync allows individuals to instantly share their COVID-19 records with employers and other organisations and control access rights.
 
 Presently, Sync shares COVID-19 ART and PCR swab tests results, and vaccination records.
-
 
 #### **How is Sync useful to you?** 
 * Share your verified health records (PCR swab results & COVID-19 vaccination status) with any organisation you work with
