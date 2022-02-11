@@ -20,7 +20,9 @@ Only share your health records with your organisation. Unrelated organisations w
 
 ***Note: Please skip this step if you have received an invite link from your organisation.***
 
-Key in the organisation code provided and tap or click **'Next'.** - Speak to your manager or HR team to obtain your organisation code. For companies, this is typically your company's Unique Entity Number (**UEN**).
+Key in the organisation code provided and tap or click **'Next'.** 
+
+Speak to your manager or HR team to obtain your organisation code. For companies, this is typically your company's Unique Entity Number (**UEN**).
 
 If you are working with multiple organisations, please repeat this step to add and provide consent to each organisation separately.
 
