@@ -3,8 +3,7 @@ title: Signing into Sync
 permalink: /sync-for-users/getting-to-sync
 description: ""
 ---
-
-### **Getting onto Sync**
+### **Signing into Sync**
 ![](/images/Combined.svg)
 
 Sign in with the invite link sent from your organisation. There is no download required.
