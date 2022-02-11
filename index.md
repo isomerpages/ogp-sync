@@ -55,7 +55,7 @@ sections:
       image: /images/LANDING5.png
   - infobar:
       title: Interested to join Sync?
-      description: Register your organisation for Sync today
+      description: Register your organisation on Sync today
       button: Onboard to Sync
       url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
 ---
