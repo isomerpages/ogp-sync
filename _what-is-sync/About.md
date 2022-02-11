@@ -11,7 +11,7 @@ Sync is a web platform developed by [Open Government Products](https://www.open.
 Presently, Sync shares COVID-19 ART and PCR swab tests results, and vaccination records.
 
 
-#### **How is Sync useful to you?** 
+#### **How is Sync useful to individuals?** 
 * Share your verified health records (COVID-19 vaccination status, PCR and ART swab results) with any organisation you work with, or even with multiple organisations at a go.
 * Submit weekly ART self-swab test results easily and securely with name, NRIC, and mobile number already filled in.
 * Automatically share your ART and PCR swabs taken at other centres / clinics with organisations.
