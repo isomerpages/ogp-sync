@@ -42,4 +42,6 @@ Tap or click  **'I consent to sharing my records'.**
 ### **You're all set!**
 ![Alt text for image on Isomer site](/images/guide/Toggle%20on.png)
 
-Your organisation will appear in your list of recipients. You may toggle off the sharing button if you have left your organisation. For events, do toggle off sharing after the event has concluded.
+Your organisation will appear in your list of recipients. You may toggle off the sharing button if you have left your organisation. 
+
+For events, do toggle off sharing after the event has concluded.
