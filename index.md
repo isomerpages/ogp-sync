@@ -21,16 +21,16 @@ sections:
       subtitle: Used by organisations like TTSH, Grab, Gojek and more
   - infobar:
       title: What is Sync?
-      description: Sync is a government web portal that facilitates sharing of
-        COVID-19 data between employees and organisations that was build by OGP
-        in collaboration with MOH.
+      description: Sync is a platform built by Open Government Products that enables
+        employees to instantly share official COVID-19 test results and records
+        with employers.
       button: About Sync
       url: /about-sync
   - infopic:
       title: Add recipients
       subtitle: For Employees
-      description: Employees can give consent to organisation(s) to access their
-        COVID-19 records. Consent can be revoked at any time.
+      description: Employees can choose who they share their COVID-19 data with on
+        Sync. Consent can be revoked at any time.
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
@@ -38,9 +38,8 @@ sections:
   - infopic:
       title: Submit ART Results
       subtitle: For Employees
-      description: "Submit a self-swab ART result with 3 clicks. The results will be
-        shared automatically with organisation(s) that have been given consent.
-        "
+      description: Submit a self-swab ART result with 3 clicks. The results will be
+        shared automatically with the chosen recipients.
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
@@ -48,15 +47,15 @@ sections:
   - infopic:
       title: Receive Results
       subtitle: For Employers
-      description: Sync sends organisations daily reports of consolidated COVID-19
-        statuses of individuals who provided them consent.
+      description: Sync sends organisations consolidated daily reports of employees'
+        COVID-19 statuses.
       button: Learn more
       alt: Image alt text
-      url: "-"
+      url: /sync-for-employers/receiving-results
       image: /images/LANDING5.png
   - infobar:
-      title: Interested to onboard?
-      description: It is easy to get started. Contact us for a seamless onboarding journey.
-      button: Contact Us
-      url: /contact-us/
+      title: Interested to join Sync?
+      description: Register your organisation for Sync today
+      button: Onboard to Sync
+      url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
 ---
