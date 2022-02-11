@@ -3,12 +3,11 @@ title: Adding Recipient
 permalink: /for-employees/add-recipient
 description: ""
 ---
-
 ### **Adding recipient**
 ![Alt text for image on Isomer site](/images/guide/Add%20recipient.png)
-*Note: You may skip this step if you have received an invite link from your organisation.*
+***Note: Please skip this step if you have received an invite link from your organisation.***
 
-In order for your organisation to access your health records, you would need to provide consent.
+You will need to provide **consent** to your organisation to access your health records.
 
 To do so, tap or click on the **'Add recipient'** button.
 
@@ -19,18 +18,18 @@ Only share your health records with your organisation. Unrelated organisations w
 ### **Enter organisation code**
 ![Alt text for image on Isomer site](/images/guide/Enter%20code.png)
 
-*Note: You may skip this step if you received an invite link from your organisation.*
+***Note: Please skip this step if you have received an invite link from your organisation.***
 
-Key in the organisation code provided and tap or click **'Next'.** - Speak to your HR or manager to obtain your organisation code.
+Key in the organisation code provided and tap or click **'Next'.** - Speak to your manager or HR team to obtain your organisation code. For companies, this is typically your company's Unique Entity Number (**UEN**).
 
-If you are working with multiple organisations, please add and provide consent separately.
+If you are working with multiple organisations, please repeat this step to add and provide consent to each organisation separately.
 
 ### **Provide consent to share records**
 ![Alt text for image on Isomer site](/images/guide/Consent.png)
 
 A summary of the health records to be shared will be shown:
-* COVID-19 Vaccination status
-* ART Swab Results (up to 2 weeks)
+* COVID-19 Vaccination status 
+* ART and PCR Swab Results (up to 2 weeks)
 
 Tick the checkbox after reading through the page to acknowledge.
 
