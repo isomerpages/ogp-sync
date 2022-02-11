@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Vaccination Status and Test Results Submission History**
 
-![](/images/guide/Past%20submissions.png)
+![](/images/Past%20submissions.svg)
 
 Vaccination status and ART / PCR swab results submission history can be accessed from the **menu**.
 
