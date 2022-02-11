@@ -7,9 +7,9 @@ You can easily submit a self-swab ART result on Sync.
 
 Tap on the **'Submit ART Result'** button. 
 
-![](/images/ART%20result1.png)
+![](/images/ART%20result1.svg)
 
-![](/images/guide/ART%20result3.png)
+![](/images/ART%20result2.svg)
 
 Your name, NRIC / FIN & mobile number will be automatically added to the self-swab submission form. Select the **Result**, and tap on **Submit**. If necessary, you may also change the date and time of submission.
 
