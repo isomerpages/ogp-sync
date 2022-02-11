@@ -5,7 +5,14 @@ links:
   - title: For Employees
     collection: for-employees
   - title: For Employers
-    collection: for-employers
+    url: /sync-for-employers/receiving-results
+    sublinks:
+      - title: Onboard to Sync
+        url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
+      - title: Receiving Results
+        url: /sync-for-employers/receiving-results
+      - title: Understanding Data Fields
+        url: /sync-for-employers/understanding-data-fields
   - title: Onboard to Sync
     url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
   - title: FAQ
