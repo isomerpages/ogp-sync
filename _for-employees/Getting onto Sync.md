@@ -4,7 +4,7 @@ permalink: /sync-for-users/getting-to-sync
 description: ""
 ---
 ### **Getting onto Sync**
-![](/images/Combined.png)
+![](/images/Combined.svg)
 
 Sign in with the invite link sent from your organisation. There is no download required.
 
@@ -15,7 +15,7 @@ Alternatively, visit the Sync portal on your mobile phone browser:
 [https://sync.covid.gov.sg/](https://sync.covid.gov.sg/)
 
 ### **Log in via SingPass mobile**
-![Alt text for image on Isomer site](/images/guide/QR.png)
+![](/images/QR.png)
 
 Tap on the SingPass QR code.
 
