@@ -5,7 +5,7 @@ date: 2022-02-03
 layout: post
 description: ""
 ---
-![](/images/iPhoneX_In_Hand_MockupsForFree2.jpg)
+![](/images/SYNC%20MOCKUP.jpg)
 
 ### **Keep your COVID-19 records in sync**
 Sync is a web platform developed by [Open Government Products](https://www.open.gov.sg/) that enables consent-based sharing of COVID-19 test results and vaccination records. Developed in collaboration with the Ministry of Health, Sync allows individuals to instantly share their COVID-19 records with employers and control access rights.
