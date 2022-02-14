@@ -49,7 +49,8 @@ sections:
       title: Receive Results
       subtitle: For Organisations
       description: Sync sends organisations consolidated daily reports of employees'
-        COVID-19 status and test results.
+        COVID-19 vaccination status and test results (both supervised and
+        self-swabs).
       button: Learn more
       alt: Image alt text
       url: /sync-for-employers/receiving-results
