@@ -16,7 +16,7 @@ sections:
           description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
         - title: For organisations
-          description: Set up Sync for your company
+          description: Register your company on Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
   - infobar:
       title: What is Sync?
