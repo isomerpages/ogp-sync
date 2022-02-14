@@ -3,39 +3,38 @@ title: Signing into Sync
 permalink: /sync-for-users/getting-to-sync
 description: ""
 ---
-### **Signing into Sync**
+### **Logging in to Sync**
 ![](/images/Combined.svg)
 
-Sign in with the invite link sent from your organisation. There is no download required.
+Log in with the invite link your organisation sends you – there is no need to download an app.
 
-Sample Invite Link:
-*sync.covid.gov.sg/invite/[**organisation name**]*
+Sample invite link:
+*sync.gov.sg/invite/[**organisation name**]*
 
 Alternatively, visit the Sync portal on your mobile phone browser: 
-[https://sync.covid.gov.sg/](https://sync.covid.gov.sg/)
+[app.sync.gov.sg/](https://app.sync.gov.sg/)
 
-### **Log in via SingPass mobile**
+### **Log in using Singpass mobile app**
 ![](/images/QR.png)
 
-Tap on the SingPass QR code.
+Tap on the Singpass QR code.
 
-*Note: You can only login to sync with the SingPass mobile app. SingPass password login on web is not supported.*
+**Note: You can only log into Sync with the Singpass mobile app. Singpass password login is not supported.**
 
-* You may install the SingPass Mobile app on: 
+* Get the Singpass mobile app for: 
 	* [Android](https://play.google.com/store/apps/details?id=sg.ndi.sp&hl=en-GB) 
 	* [iOS](https://itunes.apple.com/us/app/singpass-mobile/id1340660807)
 	* [Huawei](https://appgallery.huawei.com/#/app/C104129719)
-* For more guidance, read SingPass app guide:
-	* [Android ](https://www.singpass.gov.sg/singpass/resources/pdf/Singpass_App_Android_Guide.pdf)
-	* [iOS ](https://www.singpass.gov.sg/singpass/resources/pdf/Singpass_App_iOS_Guide.pdf)
+* For more guidance, read the Singpass app guides:
+	* [Android ](https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_App_Android_Guide.pdf)
+	* [iOS ](https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_App_iOS_Guide.pdf)
 
-#### **Returning to Sync portal**
-After authenticating through the SingPass mobile app, you might not be redirected back to the Sync portal automatically.
+#### **Returning to the Sync platform**
+After logging in with the Singpass mobile app, you may not be taken back to the Sync platform automatically.
 
-Please exit the SingPass mobile app and head back to your browser in order to return back to Sync portal.
-
+If this happens, please exit the Singpass mobile app and head back to your mobile browser to access the Sync platform.
 
 ___
 
 #### **Forgot your Singpass password?**
-[Reset it online](https://www.singpass.gov.sg/home/ui/login) OR head down to your [nearest SingPass counter](https://www.singpass.gov.sg/singpass/common/counter).
+[Reset it online](https://www.singpass.gov.sg/home/ui/login) **or** head down to your [nearest Singpass counter](https://www.singpass.gov.sg/singpass/common/counter).
