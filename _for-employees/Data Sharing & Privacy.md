@@ -14,4 +14,4 @@ Sync **does not** store your health data on our system. Your health data is stor
 **Important: Remember to stop sharing your health records once you stop working with an organisation.**
 
 ### **How does Sync protect privacy?**
-Sync is a consent based system that puts the control of user's health data in their hands. Users may share and remove access to their health data with organisations as and when required.
+Sync is a consent-based system that gives individuals full control of their personal health data. Individuals can choose who they share their health data with.
