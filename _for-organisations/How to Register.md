@@ -5,21 +5,22 @@ description: Steps for organisations to register onto Sync
 ---
 **Registration**
 
-Log in with CorpPass to register your interest: 
+Log in with Singpass to register your interest: 
 [go.gov.sg/sync-company-form](https://form.gov.sg/#!/618a18ede7d4290016fd18db)
 
 Please have the following ready: 
 
-* Point of contact name, email, mobile number
+* Authorised representative's name, email, and mobile number
 * Company name (to be displayed on Sync)
-* Emails of admins to receive the daily reports
-* Logo of your company (square ratio of 1:1)
-* Accept Sync Terms & Conditions
+* Email addresses of authorised representatives who will receive daily reports
+* Your company's logo (a clear image, in a 1:1 square ratio)
 
-Your organisation code will be your UEN. Please disseminate this to your staff for them to share their health data with you. 
+Accept Sync Terms & Conditions, and submit the form.
 
-**CorpPass**
+You will be notified once your organisation is registered on Sync. Your UEN will be your **Organisation Code** – ask your staff use this code to add your organisation as a recipient. You will then automatically start receiving their health data.
 
-SingPass is now linked to CorpPass. Approach the Registered Officer (RO) in your organisation to link your SingPass to your organisation's CorpPass. 
+**Corppass**
+
+Your Singpass will need to be linked to your organisation's Corppass. Approach the Registered Officer (RO) in your organisation to do so. 
 
 For more details, please refer to: [CorpPass.gov.sg](https://www.corppass.gov.sg/).
