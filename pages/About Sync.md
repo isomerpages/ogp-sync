@@ -22,4 +22,4 @@ At present, Sync allows individuals to share their COVID-19 ART and PCR swab tes
 * Timely and easy access to verified COVID-19 vaccination status and test results from employees and visitors
 * Daily reports containing vaccination and test records of all individuals who have provided consent to the organisation
 * Eases monitoring of workplace safety and booster vaccination progress
-* Organisations keen on using Sync can register [here](go.gov.sg/sync-company-form) 
+* Organisations keen on using Sync can register [here](go.gov.sg/sync-company-form)
