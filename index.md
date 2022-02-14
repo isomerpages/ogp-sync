@@ -53,8 +53,8 @@ sections:
       url: /sync-for-employers/receiving-results
       image: /images/LANDING5.png
   - infobar:
-      title: Interested to join Sync?
-      description: Register your organisation on Sync today
-      button: Onboard to Sync
+      title: Want to start using Sync?
+      description: Get your company registered today
+      button: register here
       url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
 ---
