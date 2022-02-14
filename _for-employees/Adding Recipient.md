@@ -3,16 +3,16 @@ title: Adding Recipient
 permalink: /for-employees/add-recipient
 description: ""
 ---
-### **Adding recipient**
+### **Adding a recipient**
 ![](/images/Add%20recipient.svg)
 ***Note: Please skip this step if you have received an invite link from your organisation.***
 
-You will need to provide **consent** to your organisation to access your health records.
+You will need to provide **consent** to an organisation for them to access your records.
 
 To do so, tap or click on the **'Add recipient'** button.
 
 **Important:
-Only share your health records with your organisation. Unrelated organisations will receive your private health records if you share it with them.**
+Check to make sure you are adding the correct organisation as a recipient. Any organisations you give consent to will be able to view your records.**
 
 
 ### **Enter organisation code**
@@ -20,20 +20,20 @@ Only share your health records with your organisation. Unrelated organisations w
 
 ***Note: Please skip this step if you have received an invite link from your organisation.***
 
-Key in the organisation code provided and tap or click **'Next'.** 
+Ask your manager/HR team or authorised representative for your organisation's code. For companies, this is typically the company's Unique Entity Number (**UEN**).
 
-Speak to your manager or HR team to obtain your organisation code. For companies, this is typically your company's Unique Entity Number (**UEN**).
+Enter the organisation code, and tap or click **'Next'.**
 
-If you are working with multiple organisations, please repeat this step to add and provide consent to each organisation separately.
+If you are working with multiple organisations, please repeat this step to add and give consent to each organisation separately.
 
-### **Provide consent to share records**
+### **Give consent to share records**
 ![](/images/Consent.svg)
 
 A summary of the health records to be shared will be shown:
 * COVID-19 Vaccination status 
-* ART and PCR Swab Results (up to 2 weeks)
+* ART and PCR Swab Results (up to 2 weeks before the date you give consent)
 
-Tick the checkbox after reading through the page to acknowledge.
+Click the checkbox to acknowledge you understand how records are shared.
 
 Tap or click  **'I consent to sharing my records'.**
 
@@ -42,6 +42,6 @@ Tap or click  **'I consent to sharing my records'.**
 ### **You're all set!**
 ![](/images/Toggle%20on.svg)
 
-Your organisation will appear in your list of recipients. You may toggle off the sharing button if you have left your organisation. 
+Your organisation will appear in your list of recipients. Please switch off the sharing button if you have left your organisation. 
 
-For events, do toggle off sharing after the event has concluded.
+For events, do turn off sharing once the event has ended.
