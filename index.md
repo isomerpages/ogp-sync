@@ -21,9 +21,9 @@ sections:
       subtitle: Used by organisations like TTSH, Grab, Gojek and more
   - infobar:
       title: What is Sync?
-      description: Sync is a platform built by Open Government Products that enables
-        employees to instantly share official COVID-19 test results and records
-        with employers.
+      description: Sync is a platform built by Open Government Products & MOH that
+        enables employees to instantly share official COVID-19 test results and
+        records with employers.
       button: About Sync
       url: /about-sync
   - infopic:
