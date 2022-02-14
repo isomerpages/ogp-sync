@@ -16,4 +16,4 @@ All files will be sent in a password-protected folder. The password will be give
 
 If employees have not given you their consent, please direct them to [go.gov.sg/sync](https://app.sync.gov.sg/) to log in and share their data with you.
 
-**Note: Please provide at least one organisation email address for the daily reports to be sent to.**
+**Important: Please provide at least one organisation email address for the daily reports to be sent to.**
