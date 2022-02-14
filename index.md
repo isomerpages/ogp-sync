@@ -23,8 +23,8 @@ sections:
   - infobar:
       title: What is Sync?
       description: Sync is a platform built by Open Government Products & MOH to let
-        individuals instantly share official COVID-19 test results and records
-        with organisations.
+        individuals instantly share official COVID-19 test and vaccination
+        records with organisations.
       button: Read More
       url: /about-sync
   - infopic:
