@@ -52,7 +52,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /sync-for-employers/receiving-results
-      image: /images/LANDING5.png
+      image: /images/LANDING MOCKUP.png
   - infobar:
       title: Want to start using Sync?
       description: Get your company registered today
