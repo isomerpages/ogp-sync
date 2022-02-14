@@ -29,7 +29,7 @@ sections:
       title: Add recipients
       subtitle: For Employees
       description: Employees can choose who they share their COVID-19 data with on
-        Sync. Consent can be revoked at any time.
+        Sync, and can revoke consent at any time.
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
