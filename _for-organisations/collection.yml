@@ -1,6 +1,7 @@
 collections:
-  for-employers:
+  for-organisations:
     output: true
     order:
+      - How to Register.md
       - Receiving Results.md
       - Understanding Data Fields.md

@@ -2,10 +2,10 @@ collections:
   for-employees:
     output: true
     order:
-      - Signing into Sync.md
-      - Adding Recipient.md
+      - Logging in to Sync.md
+      - Adding a Recipient.md
       - Mobile Number Verification.md
-      - Submitting ART result.md
+      - Submitting an ART Result.md
       - Past Submissions.md
-      - Stop Sharing.md
+      - Turning Off Sharing.md
       - Data Sharing & Privacy.md

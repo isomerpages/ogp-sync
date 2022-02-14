@@ -16,8 +16,9 @@ sections:
           description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
         - title: For organisations
-          description: Register your company for Sync
+          description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
+      subtitle: Instantly share your test results with employers or organisations
   - infobar:
       title: What is Sync?
       description: Sync is a platform built by Open Government Products & MOH to let
@@ -26,19 +27,19 @@ sections:
       button: Read More
       url: /about-sync
   - infopic:
-      title: Add recipients
-      subtitle: For Employees
-      description: Individuals can choose who they share their COVID-19 data with on
-        Sync, and revoke consent at any time.
+      title: Manage Recipients
+      subtitle: For Individuals
+      description: Choose who you share your COVID-19 data with on Sync, and revoke
+        consent at any time.
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
       image: /images/Add Recipient_Landing.svg
   - infopic:
       title: Submit ART Results
-      subtitle: For Employees
+      subtitle: For Individuals
       description: Submit a self-swab ART result with 3 clicks – it'll be shared
-        automatically with the chosen recipients.
+        automatically with your chosen recipients.
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
@@ -51,7 +52,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /sync-for-employers/receiving-results
-      image: /images/LANDING5.png
+      image: /images/LANDING MOCKUP.png
   - infobar:
       title: Want to start using Sync?
       description: Get your company registered today
