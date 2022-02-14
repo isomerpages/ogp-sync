@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Logging in to Sync.md
-      - Adding Recipient.md
+      - Adding a Recipient.md
       - Mobile Number Verification.md
       - Submitting ART result.md
       - Past Submissions.md
