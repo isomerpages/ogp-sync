@@ -8,7 +8,7 @@ description: ""
 #### **1. Data fields on: vaccination_status.csv**
 
 
-* **uin:** Unique Identification Number (NRIC, FIN number)
+* **uin:** Unique Identification Number (NRIC, FIN)
 
 * **name**
 
