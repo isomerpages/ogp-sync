@@ -16,7 +16,7 @@ sections:
           description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
         - title: For organisations
-          description: Register your company for Sync
+          description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
       subtitle: Instantly share your test results with employers or organisations
   - infobar:
