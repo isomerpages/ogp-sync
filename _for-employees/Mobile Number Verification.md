@@ -6,10 +6,10 @@ description: ""
 ### **How do I verify my mobile number?**
 ![](/images/Mobile%20Number.svg)
 
-Enter your mobile number upon submitting your ART results and verify on Sync for automatic retrieval. You will only need to verify your mobile number once. Your name and NRIC details are automatically collected from SingPass. 
+Before you submit an ART result, you will need to verify your mobile number. You will only need to do this once, and your verified number will be saved on your profile. Your name and NRIC details will be filled in automatically when you log in using Singpass.
 
 
 ### **How do I update my mobile number?**
 ![](/images/Profile_verification.svg)
 
-To update or change your mobile number, access your **profile page** from the Sync menu. You will need to verify your new mobile number via an OTP verification.
+To update or change your mobile number, visit the **Profile** page in the Sync menu. You will need to verify your new mobile number using an OTP.
