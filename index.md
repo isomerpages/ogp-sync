@@ -45,7 +45,7 @@ sections:
       image: /images/Submit ART_Landing.svg
   - infopic:
       title: Receive Results
-      subtitle: For Employers
+      subtitle: For Organisations
       description: Sync sends organisations consolidated daily reports of employees'
         COVID-19 statuses.
       button: Learn more
