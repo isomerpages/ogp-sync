@@ -27,7 +27,7 @@ sections:
       button: Read More
       url: /about-sync
   - infopic:
-      title: Manage recipients
+      title: Manage Recipients
       subtitle: For Individuals
       description: Choose who you share your COVID-19 data with on Sync, and revoke
         consent at any time.
