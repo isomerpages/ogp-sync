@@ -18,7 +18,6 @@ sections:
         - title: I am an employer
           description: Onboard to Sync today
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
-      subtitle: Used by organisations like TTSH, Grab, Gojek and more
   - infobar:
       title: What is Sync?
       description: Sync is a platform built by Open Government Products & MOH that
