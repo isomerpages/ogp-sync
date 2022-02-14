@@ -1,17 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource Room
-    resource_room: true
+  - title: About
+    url: /about-sync
+  - title: For Employees
+    collection: for-employees
+  - title: For Employers
+    url: /sync-for-employers/receiving-results
+    sublinks:
+      - title: Onboard to Sync
+        url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
+      - title: Receiving Results
+        url: /sync-for-employers/receiving-results
+      - title: Understanding Data Fields
+        url: /sync-for-employers/understanding-data-fields
+  - title: Onboard to Sync
+    url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
+  - title: FAQ
+    url: https://ask.gov.sg/agency/sync
