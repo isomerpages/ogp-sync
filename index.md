@@ -37,8 +37,8 @@ sections:
   - infopic:
       title: Submit ART Results
       subtitle: For Employees
-      description: Submit a self-swab ART result with 3 clicks. The results will be
-        shared automatically with the chosen recipients.
+      description: Submit a self-swab ART result with 3 clicks – it'll be shared
+        automatically with the chosen recipients.
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
