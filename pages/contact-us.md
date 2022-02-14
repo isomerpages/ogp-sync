@@ -8,10 +8,5 @@ contacts:
       - phone: ""
       - email: sync@open.gov.sg
       - other: ""
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: go.gov.sg/sync-feedback
-    title: Feedback
+    title: General Enquiries
 ---
