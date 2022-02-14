@@ -12,7 +12,7 @@ sections:
       button: SIGN IN AS EMPLOYEE / individual
       url: https://sync.covid.gov.sg/
       key_highlights:
-        - title: For employees & workers
+        - title: For employees & individuals
           description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
         - title: For organisations
