@@ -5,13 +5,13 @@ description: ""
 ---
 ### **What data does Sync have access to?**
 
-Sync only pulls your health data (vaccination status, ART / PCR swab results) from the MOH database, and name and NRIC from MyInfo. With the exception of your mobile number, we do not store your data on Sync.
+Sync can only access your health data (vaccination status, ART / PCR swab results) from the MOH database, and your name and NRIC from Singpass. Apart from your mobile number, none of your other data is stored on Sync.
 
 ### **Does Sync store my health data?**
 
-Sync does not store your health data on our system. Your health data is stored securely in the MOH database and shared with organisations directly. Likewise, ART self-submitted swab tests submitted on Sync goes directly to the MOH database and organisations without being stored on Sync. 
+Sync **does not** store your health data on our system. Your health data is stored securely in the MOH database, and shared directly with organisations you explicitly consent to. Results of ART tests you submit on Sync go directly to the MOH database and organisations that have your consent, without being stored on Sync. 
 
-**Important: Remember to stop sharing your health records once you stopped working with an organisation.**
+**Important: Remember to stop sharing your health records once you stop working with an organisation.**
 
 ### **How does Sync protect privacy?**
 Sync is a consent based system that puts the control of user's health data in their hands. Users may share and remove access to their health data with organisations as and when required.
