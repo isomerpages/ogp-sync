@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner8.svg
-      button: SIGN IN AS EMPLOYEE / WORKER
+      button: SIGN IN AS EMPLOYEE / individual
       url: https://sync.covid.gov.sg/
       key_highlights:
         - title: For employees & workers
