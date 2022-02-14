@@ -3,65 +3,58 @@ title: Understanding Data Fields
 permalink: /sync-for-employers/understanding-data-fields
 description: ""
 ---
-### **Understanding Data Fields**
+### **Understanding Daily Reports**
 
-#### **1. Data fields on: vaccination_status.csv**
+#### **1. Vaccination Status report**
 
+This will contain individuals':
 
-* **uin:** Unique Identification Number (NRIC, FIN)
+* **UIN:** Unique Identification Number (NRIC, FIN)
 
-* **name**
+* **Name**
 
-* **vaccination status**
-	* There are only two vaccination status:	
+* **Vaccination Status:** This will be either:
 		* vaccinated
 		* not_vaccinated
-	* Vaccination status includes booster doses
+Note: Vaccination status includes booster doses
 
-* **expiry date**: Vaccination status expiry date.  The user’s vaccination status will turn not_vaccinated on this date.
+* **Expiry Date**: Vaccination status expiry date. The individual’s vaccination status will change to not_vaccinated on this date. **Individuals who have taken a booster dose will not have a vaccination status expiry date.**
 		
 
-#### **2. Data fields on: art_results.csv**
+#### **2. ART Results report**
+This will contain individuals':
 
-*   **uin**: Unique Identification Number (NRIC, FIN number)
+* **UIN:** Unique Identification Number (NRIC, FIN)
 
-* **name**
+* **Name**
 
-*   **test_id**
-	*   Each test result submitted will be tagged to a unique test_id. The test id only serves as a way to differentiate two different tests. 
-	*  Note: You may ignore this field if it is not needed.
+*   **Test_ID:** Each test result submitted will have a unique test_id, to help identify different tests taken by the same individual. 
 
-*   **administration_mode**
-	*   This can either be supervised or unsupervised
-		* Supervised: taken at QTC or clinics.
-		* Unsupervised: self swabs taken at individual’s convenience.
-
-*   **produced_at**: Date when test is taken. 
+*   **Administration_Mode:** This will be either:
+		* Supervised: Tests taken at QTCs or clinics.
+		* Unsupervised: Self-swabs done by the individual themselves.
 
 
-*   **result**
-	*   This can either be positive or negative
+*   **Produced_At**: Date when the test was taken. 
 
+*   **Result:** This will be either be **Positive** or **Negative**.
 
-*  **test_type**: ART 
+*  **Test_Type**: This column will always show 'ART' 
 
-
-*   **brand**
-	*   For supervised swabs:
-		*   The brand of the test kit - 'BD Veritor', 'SD Biosensor', 'Standard Q', 'Abbott Pandio Covid-19 AG'.
-	* For self-swabs:
-		* Users submit the ART form with no test brand included. This field will be displayed as 'Others'.
+*   **Brand:** For supervised swabs, the brand of the test kit will be one of:
+		'BD Veritor', 'SD Biosensor', 'Standard Q', 'Abbott Panbio Covid-19 AG'
+	For self-swab tests submitted on Sync, the brand name is not recorded, and will show as 'Others'.
 
 
 
-#### **3. Data fields on: pcr_results.csv**
+#### **3. PCR Results report**
+This will contain individuals':
 
-*   **uin:** Unique Identification Number (NRIC, FIN number)
+* **UIN:** Unique Identification Number (NRIC, FIN)
 
-*  **name**
+* **Name**
 
-*   **test_results**
-	*   This can either be positive or negative
+*   **Test_Results:**
+	This will be either **Positive** or **Negative**.
 
-
-* **time_stamp**: Exact date and time of when this test was taken
+* **Time_Stamp**: Exact date and time of when the test was taken.
