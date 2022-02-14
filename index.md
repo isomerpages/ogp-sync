@@ -20,10 +20,10 @@ sections:
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
   - infobar:
       title: What is Sync?
-      description: Sync is a platform built by Open Government Products & MOH that
-        enables employees to instantly share official COVID-19 test results and
-        records with employers.
-      button: About Sync
+      description: Sync is a platform built by Open Government Products & MOH to let
+        individuals instantly share official COVID-19 test results and records
+        with organisations.
+      button: Read More
       url: /about-sync
   - infopic:
       title: Add recipients
