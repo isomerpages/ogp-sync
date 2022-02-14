@@ -3,7 +3,7 @@ title: Past Submissions
 permalink: /sync-for-users/past-submissions
 description: ""
 ---
-### **Vaccination Status and Test Results  History**
+### **Vaccination Status and Test Results History**
 
 ![](/images/Past%20submissions.svg)
 
