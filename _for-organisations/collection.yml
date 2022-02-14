@@ -1,5 +1,5 @@
 collections:
-  for-employers:
+  for-organisations:
     output: true
     order:
       - Receiving Results.md
