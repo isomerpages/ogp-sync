@@ -3,7 +3,7 @@ title: Receiving Results
 permalink: /sync-for-employers/receiving-results
 description: ""
 ---
-Organisations receive daily reports by email between **8 and 9 am**. 
+**Organisations must provide at least one official email address for daily reports to be sent to. These reports will be sent by email every day between 8 and 9 am**. 
 
 The daily report contains 3 CSV files:
 * vaccination_status.csv
@@ -16,4 +16,3 @@ All files will be sent in a password-protected folder. The password will be give
 
 If employees have not given you their consent, please direct them to [go.gov.sg/sync](https://app.sync.gov.sg/) to log in and share their data with you.
 
-**Important: Please provide at least one organisation email address for the daily reports to be sent to.**
