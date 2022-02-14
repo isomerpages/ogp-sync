@@ -18,7 +18,8 @@ sections:
         - title: For organisations
           description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
-      subtitle: Instantly share your test results with employers or organisations
+      subtitle: Instantly share your test and vaccination records with employers or
+        organisations
   - infobar:
       title: What is Sync?
       description: Sync is a platform built by Open Government Products & MOH to let
