@@ -23,4 +23,4 @@ You will be notified once your organisation is registered on Sync. Your UEN will
 
 Your Singpass will need to be linked to your organisation's Corppass. Approach the Registered Officer (RO) in your organisation to do so. 
 
-For more details, please refer to: [CorpPass.gov.sg](https://www.corppass.gov.sg/).
+For more details, please refer to: [Corppass.gov.sg](https://www.corppass.gov.sg/).
