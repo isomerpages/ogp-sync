@@ -27,10 +27,10 @@ sections:
       button: Read More
       url: /about-sync
   - infopic:
-      title: Add recipients
-      subtitle: For Employees
-      description: Individuals can choose who they share their COVID-19 data with on
-        Sync, and revoke consent at any time.
+      title: Manage recipients
+      subtitle: For Individuals
+      description: Choose who you share your COVID-19 data with on Sync, and revoke
+        consent at any time.
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
