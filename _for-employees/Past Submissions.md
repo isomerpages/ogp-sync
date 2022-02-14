@@ -7,8 +7,6 @@ description: ""
 
 ![](/images/Past%20submissions.svg)
 
-Vaccination status and ART / PCR swab results submission history can be accessed from the **menu**.
+Vaccination status, and your past ART / PCR swab results from within the past 2 weeks can be accessed from the **menu**. Swab results include those from clinics, QTCs, and other supervised test centres.
 
-Vaccination status will show either '**vaccinated**' or '**not-vaccinated'**, and includes booster doses.
-
-ART / PCR swab result submission history is recorded for the **past 14 days** and includes results from clinics, QTC, and other supervised test centres.
+Vaccination status will show either '**Vaccinated**' or '**Not vaccinated'**, and includes booster doses.
