@@ -18,6 +18,7 @@ sections:
         - title: For organisations
           description: Register your company for Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
+      subtitle: Safely share your test results with organisations or your employer
   - infobar:
       title: What is Sync?
       description: Sync is a platform built by Open Government Products & MOH to let
