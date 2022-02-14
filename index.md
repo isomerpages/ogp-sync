@@ -15,8 +15,8 @@ sections:
         - title: I am an employee
           description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
-        - title: I am an employer
-          description: Onboard to Sync today
+        - title: For organisations
+          description: Set up Sync for your company
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
   - infobar:
       title: What is Sync?
