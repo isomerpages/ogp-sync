@@ -37,9 +37,9 @@ sections:
       image: /images/Add Recipient_Landing.svg
   - infopic:
       title: Submit ART Results
-      subtitle: For Employees
+      subtitle: For Individuals
       description: Submit a self-swab ART result with 3 clicks – it'll be shared
-        automatically with the chosen recipients.
+        automatically with your chosen recipients.
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
