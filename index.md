@@ -18,12 +18,13 @@ sections:
         - title: For organisations
           description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
-      subtitle: Instantly share your test results with employers or organisations
+      subtitle: Instantly share your test and vaccination records with employers or
+        organisations
   - infobar:
       title: What is Sync?
       description: Sync is a platform built by Open Government Products & MOH to let
-        individuals instantly share official COVID-19 test results and records
-        with organisations.
+        individuals instantly share official COVID-19 test and vaccination
+        records with organisations.
       button: Read More
       url: /about-sync
   - infopic:
@@ -34,7 +35,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
-      image: /images/Add Recipient_Landing.svg
+      image: /images/LANDING_Updated name.svg
   - infopic:
       title: Submit ART Results
       subtitle: For Individuals
@@ -43,12 +44,13 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
-      image: /images/Submit ART_Landing.svg
+      image: /images/LANDING2_Name updated.svg
   - infopic:
       title: Receive Results
       subtitle: For Organisations
       description: Sync sends organisations consolidated daily reports of employees'
-        COVID-19 status and test results.
+        COVID-19 vaccination status and test results (both supervised and
+        self-swabs).
       button: Learn more
       alt: Image alt text
       url: /sync-for-employers/receiving-results

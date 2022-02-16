@@ -3,15 +3,13 @@ title: Turning Off Sharing
 permalink: /for-employees/stopsharing
 description: ""
 ---
-
-
 ### **Turning off sharing**
 
-![](/images/Toggle%20off.svg)
+![](/images/Toggle%20Off_updated.svg)
 
 To stop sharing your records with an organisation, **simply toggle off the switch** – the organisations will then appear greyed out.
 
-![](/images/Delete.svg)
+![](/images/Delete%20Org.svg)
 
 To delete an organisation from your recipient list, click or tap on **'i'** beside the organisation's name, followed by **'Delete'**. The recipient will be removed from your homepage.
 

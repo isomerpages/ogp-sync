@@ -1,5 +1,5 @@
 ---
-title: Understanding Data Fields
+title: Understanding Daily Reports
 permalink: /sync-for-employers/understanding-data-fields
 description: ""
 ---

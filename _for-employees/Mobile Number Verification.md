@@ -10,6 +10,6 @@ Before you submit an ART result, you will need to verify your mobile number. You
 
 
 ### **How do I update my mobile number?**
-![](/images/Profile_verification.svg)
+![](/images/Profile%20Verification.svg)
 
 To update or change your mobile number, visit the **Profile** page in the Sync menu. You will need to verify your new mobile number using an OTP.

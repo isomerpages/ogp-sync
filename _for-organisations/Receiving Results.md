@@ -10,9 +10,8 @@ The daily report contains 3 CSV files:
 * art_results.csv
 * pcr_results.csv
 
-These CSV files will contain data of employees who have given consent to share their data with you. It will contain test results up to **2 weeks** prior to the employees giving their consent. 
+These CSV files will contain data of employees who have given consent to share their data with you. It will contain test results from up to **2 weeks** prior to the employees giving their consent. 
 
 All files will be sent in a password-protected folder. The password will be given to you during your onboarding process, and will remain the same for all daily reports.
 
 If employees have not given you their consent, please direct them to [go.gov.sg/sync](https://app.sync.gov.sg/) to log in and share their data with you.
-

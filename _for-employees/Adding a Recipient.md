@@ -3,9 +3,8 @@ title: Adding a Recipient
 permalink: /for-employees/add-recipient
 description: ""
 ---
-
 ### **Adding a recipient**
-![](/images/Add%20recipient.svg)
+![](/images/Add%20recipient_updated.svg)
 ***Note: Please skip this step if you have received an invite link from your organisation.***
 
 You will need to provide **consent** to an organisation for them to access your records.
@@ -41,7 +40,7 @@ Tap or click  **'I consent to sharing my records'.**
 
 
 ### **You're all set!**
-![](/images/Toggle%20on.svg)
+![](/images/Toggle%20On_updated.svg)
 
 Your organisation will appear in your list of recipients. Please toggle off the sharing button if you have left your organisation. 
 
