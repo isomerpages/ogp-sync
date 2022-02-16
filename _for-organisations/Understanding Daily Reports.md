@@ -3,7 +3,6 @@ title: Understanding Daily Reports
 permalink: /sync-for-employers/understanding-data-fields
 description: ""
 ---
-
 ### **Understanding Daily Reports**
 
 #### **1. Vaccination Status report**
