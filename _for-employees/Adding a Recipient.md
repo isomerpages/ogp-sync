@@ -3,9 +3,8 @@ title: Adding a Recipient
 permalink: /for-employees/add-recipient
 description: ""
 ---
-
 ### **Adding a recipient**
-![](/images/Add%20recipient.svg)
+![](/images/Add%20recipient_updated.svg)
 ***Note: Please skip this step if you have received an invite link from your organisation.***
 
 You will need to provide **consent** to an organisation for them to access your records.
