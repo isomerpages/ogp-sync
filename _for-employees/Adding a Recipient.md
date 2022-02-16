@@ -40,7 +40,7 @@ Tap or click  **'I consent to sharing my records'.**
 
 
 ### **You're all set!**
-![](/images/Toggle%20on.svg)
+![](/images/Toggle%20On_updated.svg)
 
 Your organisation will appear in your list of recipients. Please toggle off the sharing button if you have left your organisation. 
 
