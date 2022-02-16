@@ -35,7 +35,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
-      image: /images/Add Recipient_Landing.svg
+      image: /images/LANDING_Updated name.svg
   - infopic:
       title: Submit ART Results
       subtitle: For Individuals
