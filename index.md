@@ -44,7 +44,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
-      image: /images/Submit ART_Landing.svg
+      image: /images/LANDING2_Name updated.svg
   - infopic:
       title: Receive Results
       subtitle: For Organisations
