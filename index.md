@@ -9,17 +9,19 @@ sections:
   - hero:
       title: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner8.svg
-      button: SIGN IN AS EMPLOYEE / individual
+      button: SUBMIT ART SWAB RESULT
       url: https://sync.covid.gov.sg/
       key_highlights:
-        - title: For employees & individuals
+        - title: For Residents
           description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
+        - title: For Travellers
+          description: Learn how to use Sync
+          url: ""
         - title: For organisations
           description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
-      subtitle: Instantly share your test and vaccination records with employers or
-        organisations
+      subtitle: Instantly submit or share your swab test results and vaccination records
   - infobar:
       title: What is Sync?
       description: Sync is a platform built by Open Government Products & MOH to let
