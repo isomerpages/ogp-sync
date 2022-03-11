@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner8.svg
-      button: SUBMIT ART SWAB RESULT
+      button: Sign in to sync
       url: https://sync.covid.gov.sg/
       key_highlights:
         - title: For Residents
