@@ -2,5 +2,5 @@ collections:
   for-travellers:
     output: true
     order:
-      - Submitting an ART Result.md
       - Logging in to Sync.md
+      - Submitting an ART Result.md
