@@ -21,7 +21,7 @@ You will need to log in to the Sync website **using your passport details** if y
 
 
 ### **Logging in using passport details**
-![](/images/QR.png)
+![](/images/Passport%20details.png)
 
 On the Sync homepage ([app.sync.gov.sg](app.sync.gov.sg)), tap on 'Log in with Passport Details'.
 
