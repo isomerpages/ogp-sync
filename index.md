@@ -42,8 +42,8 @@ sections:
   - infopic:
       title: Submit ART Results
       subtitle: For Individuals & Travellers
-      description: Submit your self-swab ART result with 3 clicks – it'll be shared
-        automatically with the relevant recipients.
+      description: Easily submit the results of your self-administered ARTs with just
+        3 clicks
       button: Learn more
       alt: Image alt text
       url: /for-users/art-result
