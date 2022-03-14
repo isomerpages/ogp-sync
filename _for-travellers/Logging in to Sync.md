@@ -13,9 +13,11 @@ You will need to log in to the Sync website **using your passport details** if y
 * a foreign traveller without a Singapore-issued identification number (i.e. NRIC/FIN)
 * Submitting for your child who is under the age of 15 (in which case you will need to enter your child’s passport details)
 
+You can log in to Sync at [app.sync.gov.sg](https://app.sync.gov.sg/)
+
 **Please note:** 
 * This applies to General Category (Vaccinated Travel Lane (VTL)) and Category I travellers entering Singapore from 14 March 2022, 2359 hours.
-* You will be able to log in to Sync with your passport details 30 minutes after passing through immigration and customs in Singapore. If you are still having trouble logging in, please submit an enquiry via the Contact Us button at [ask.gov.sg/agency/sync](https://ask.gov.sg/agency/sync)
+* You will be able to log in to Sync with your passport details 30 minutes after passing through immigration and customs in Singapore. If you are still having trouble logging in, please submit an enquiry via the Contact Us button at [ask.gov.sg/agency/sync](https://ask.gov.sg/agency/sync).
 
 
 ### **Logging in using passport details**
