@@ -15,7 +15,7 @@ You will need to log in to the Sync website **using your passport details** if y
 
 **Please note:** 
 * This applies to General Category (Vaccinated Travel Lane (VTL)) and Category I travellers entering Singapore from 14 March 2022, 2359 hours.
-* You will be able to log in to Sync with your passport details only after passing through immigration and customs in Singapore. 
+* You will be able to log in to Sync with your passport details 30 minutes after passing through immigration and customs in Singapore. If you are still having trouble logging in, please submit an enquiry via the Contact Us button at [ask.gov.sg/agency/sync](https://ask.gov.sg/agency/sync)
 
 
 ### **Logging in using passport details**
