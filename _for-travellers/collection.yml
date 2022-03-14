@@ -2,7 +2,7 @@ collections:
   for-travellers:
     output: true
     order:
-      - Submitting results for children.md
       - Logging in to Sync.md
       - Submitting an ART Result.md
+      - Submitting results for children.md
       - Past Submissions.md
