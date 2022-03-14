@@ -2,11 +2,11 @@ collections:
   for-residents:
     output: true
     order:
-      - Submitting Results for Children.md
       - Logging in to Sync.md
       - Adding a Recipient.md
       - Mobile Number Verification.md
       - Submitting an ART Result.md
+      - Submitting Results for Children.md
       - Past Submissions.md
       - Turning Off Sharing.md
       - Data Sharing & Privacy.md
