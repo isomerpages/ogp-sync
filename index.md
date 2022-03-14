@@ -13,11 +13,11 @@ sections:
       url: https://sync.covid.gov.sg/
       key_highlights:
         - title: For Residents
-          description: Log in with Singpass
+          description: Learn how to use Sync
           url: /sync-for-users/getting-to-sync
         - title: For Travellers
-          description: Log in with Passport Details
-          url: https://app.sync.gov.sg/non-singpass-login
+          description: Learn how to use Sync
+          url: /sync-for-travellers/log-in
         - title: For organisations
           description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
