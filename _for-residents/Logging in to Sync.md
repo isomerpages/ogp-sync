@@ -4,7 +4,7 @@ permalink: /sync-for-users/getting-to-sync
 description: ""
 ---
 ### **Logging in to Sync**
-![](/images/Loggin%20into%20Sync.svg)
+![](/images/Combined_updated2.png)
 
 Log in with the invite link your organisation sends you – there is no need to download an app.
 
