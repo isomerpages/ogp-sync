@@ -4,7 +4,7 @@ permalink: /sync-for-travellers/log-in
 description: ""
 ---
 ### **Sync for travellers**
-![](/images/Loggin%20into%20Sync.svg)
+![](/images/Combined_travellers.png)
 
 Welcome to Singapore! 
 
