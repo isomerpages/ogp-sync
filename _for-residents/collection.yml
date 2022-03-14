@@ -1,5 +1,5 @@
 collections:
-  for-employees:
+  for-residents:
     output: true
     order:
       - Logging in to Sync.md

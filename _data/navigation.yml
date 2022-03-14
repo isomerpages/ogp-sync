@@ -2,9 +2,11 @@ logo: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 links:
   - title: About
     url: /about-sync
-  - title: For Individuals
-    collection: for-employees
-  - title: For Organisations
+  - title: Residents
+    collection: for-residents
+  - title: Travellers
+    collection: for-travellers
+  - title: Organisations
     url: /sync-for-employers/receiving-results
     sublinks:
       - title: Register for Sync
@@ -13,7 +15,5 @@ links:
         url: /sync-for-employers/receiving-results
       - title: Understanding Data Fields
         url: /sync-for-employers/understanding-data-fields
-  - title: Register for Sync
-    url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
   - title: FAQ
     url: https://ask.gov.sg/agency/sync
