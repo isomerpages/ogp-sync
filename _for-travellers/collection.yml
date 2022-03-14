@@ -1,0 +1,4 @@
+collections:
+  for-travellers:
+    output: true
+    order: []
