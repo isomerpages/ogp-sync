@@ -2,6 +2,6 @@ collections:
   for-travellers:
     output: true
     order:
-      - Past Submissions.md
       - Logging in to Sync.md
       - Submitting an ART Result.md
+      - Past Submissions.md
