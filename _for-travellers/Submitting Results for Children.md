@@ -14,7 +14,7 @@ If you are travelling with a child who is required to take a Rapid Antigen Test,
 
 Note: If your child is an incoming traveller submitting ART results for travel purposes, you **do not need to add a recipient** for their submission. Your submission will be sent automatically to the relevant authorities. 
 
-![](/images/ART%20result1_updated.svg)
+![](/images/ART%20result_FINAL.png)
 
 ![](/images/ART%20result2_updated.svg)
 
