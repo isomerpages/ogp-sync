@@ -11,8 +11,8 @@ Log in with the invite link your organisation sends you – there is no need to 
 Sample invite link:
 *sync.gov.sg/invite/[**organisation name**]*
 
-Alternatively, visit the Sync portal on your mobile phone browser: 
-[app.sync.gov.sg/](https://app.sync.gov.sg/)
+You can log in to Sync at [app.sync.gov.sg](https://app.sync.gov.sg/)
+
 
 ### **Log in using Singpass mobile app**
 ![](/images/QR.png)
