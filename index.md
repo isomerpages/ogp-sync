@@ -10,15 +10,15 @@ sections:
   - hero:
       title: Keep your COVID-19 records in sync
       background: /images/Isomer_Banner8.svg
-      button: Sign in to sync
+      button: Log in to sync
       url: https://sync.covid.gov.sg/
       key_highlights:
         - title: For Residents
-          description: Learn how to use Sync
+          description: Log in with Singpass
           url: /sync-for-users/getting-to-sync
         - title: For Travellers
-          description: Learn how to use Sync
-          url: ""
+          description: Log in with Passport Details
+          url: https://app.sync.gov.sg/non-singpass-login
         - title: For organisations
           description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
