@@ -2,9 +2,11 @@ logo: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 links:
   - title: About
     url: /about-sync
-  - title: For Residents
+  - title: Residents
     collection: for-residents
-  - title: For Organisations
+  - title: Travellers
+    collection: for-travellers
+  - title: Organisations
     url: /sync-for-employers/receiving-results
     sublinks:
       - title: Register for Sync
