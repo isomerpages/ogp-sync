@@ -4,8 +4,7 @@ title: Keep your COVID-19 records in sync
 description: Keep your COVID-19 records in sync.
 image: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 permalink: /
-notification: "VTL travellers: Please remember to submit your ART swab results
-  wthin 24 hours of your entry into Singapore. Have a pleasant stay! "
+notification: ""
 sections:
   - hero:
       title: Keep your COVID-19 records in sync
