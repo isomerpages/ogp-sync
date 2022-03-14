@@ -7,7 +7,7 @@ You can easily submit a self-swab ART result on Sync.
 
 Tap on the **'Submit ART Result'** button at the top of the page.
 
-**Note:** If you are an incoming traveller submitting ART results for travel purposes, you do not need to add a recipient for your submissions. Please ignore the '+ Add recipient' button at the bottom of the page. Your submission will be sent automatically to the relevant authorities.
+**Note:** If you are an incoming traveller submitting ART results for travel purposes, you **do not need to add a recipient** for your submissions. Your submission will be sent automatically to the relevant authorities.
 
 ![](/images/ART%20result1_updated.svg)
 
