@@ -18,7 +18,7 @@ sections:
         - title: For Travellers
           description: Learn how to use Sync
           url: /sync-for-travellers/log-in
-        - title: For organisations
+        - title: For Organisations
           description: Register to start using Sync
           url: https://form.gov.sg/#!/618a18ede7d4290016fd18db
       subtitle: Instantly submit or share your swab test results and vaccination records
