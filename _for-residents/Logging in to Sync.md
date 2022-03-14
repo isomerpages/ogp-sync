@@ -11,7 +11,7 @@ Log in with the invite link your organisation sends you – there is no need to 
 Sample invite link:
 *sync.gov.sg/invite/[**organisation name**]*
 
-[![](/images/Log%20in%20button%20-%20Singpass.png)](https://app.sync.gov.sg/non-singpass-login)
+[![](/images/Log%20in%20button%20-%20Singpass.png)](https://app.sync.gov.sg)
 
 
 ### **Log in using Singpass mobile app**
