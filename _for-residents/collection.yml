@@ -2,6 +2,7 @@ collections:
   for-residents:
     output: true
     order:
+      - Submitting Results for Children.md
       - Logging in to Sync.md
       - Adding a Recipient.md
       - Mobile Number Verification.md
