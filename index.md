@@ -46,7 +46,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /for-employees/add-recipient
-      image: /images/LANDING1_UPDATED 25 FEB.svg
+      image: /images/LANDING1_UPDATED 15 MAR.svg
   - infopic:
       title: Receive Results
       subtitle: For Organisations
