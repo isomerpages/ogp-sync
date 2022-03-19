@@ -12,6 +12,10 @@ You will need to log in to the Sync website **using your passport details** if y
 
 [![](/images/Log%20in%20button%20-%20Passport.png)](https://app.sync.gov.sg/non-singpass-login)
 
+For travelers **with access to Singpass**, please login to Sync using your Singpass account.
+
+For travelers **without access to Singpass but has a Singapore-issued identification number (e.g. children)**, please submit your test result using the form at the following [link](https://go.gov.sg/agsubmit).
+
 **Please note:** 
 * This applies to General Category (Vaccinated Travel Lane (VTL)) and Category I travellers entering Singapore from 14 March 2022, 2359 hours.
 * You will be able to log in to Sync with your passport details 30 minutes after passing through immigration and customs in Singapore. If you are still having trouble logging in, please submit an enquiry via the Contact Us button at [ask.gov.sg/agency/sync](https://ask.gov.sg/agency/sync).
