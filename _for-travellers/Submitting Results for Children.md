@@ -3,6 +3,8 @@ title: Submitting Results for Children
 permalink: /for-travellers/children-results
 description: ""
 ---
+*For children with a Singapore-issued identification number (i.e. NRIC/FIN), please submit their test result at the following [link](https://go.gov.sg/agsubmit).*
+
 If you are travelling with a child who is required to take a Rapid Antigen Test, but does **not** have a Singapore-issued identification number (i.e. NRIC/FIN) you can submit the test result on their behalf using their passport details. 
 
 1. Go to [app.sync.gov.sg](https://app.sync.gov.sg/) and tap on 'Log in with Passport Details'. If you are logged in with your own passport details, please log out before logging in again with your child's passport details.
