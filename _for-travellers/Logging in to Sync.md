@@ -4,16 +4,17 @@ permalink: /sync-for-travellers/log-in
 description: ""
 ---
 ### **Sync for travellers**
-![](/images/Loggin%20into%20Sync.svg)
+![](/images/Combined_travellers.png)
 
 Welcome to Singapore! 
 
-You will need to log in to the Sync website **using your passport details** if you are:
-
-* a foreign traveller without a Singapore-issued identification number (i.e. NRIC/FIN)
-* Submitting for your child who is under the age of 15 (in which case you will need to enter your child’s passport details)
+You will need to log in to the Sync website **using your passport details** if you are a foreign traveller without a Singapore-issued identification number (i.e. NRIC/FIN).
 
 [![](/images/Log%20in%20button%20-%20Passport.png)](https://app.sync.gov.sg/non-singpass-login)
+
+For travelers **with access to Singpass**, please login to Sync using your Singpass account.
+
+For travelers **without access to Singpass but has a Singapore-issued identification number (e.g. children)**, please submit your test result using the form at the following [link](https://go.gov.sg/agsubmit).
 
 **Please note:** 
 * This applies to General Category (Vaccinated Travel Lane (VTL)) and Category I travellers entering Singapore from 14 March 2022, 2359 hours.
@@ -21,7 +22,7 @@ You will need to log in to the Sync website **using your passport details** if y
 
 
 ### **Logging in using passport details**
-![](/images/QR.png)
+![](/images/Passport%20details.png)
 
 On the Sync homepage ([app.sync.gov.sg](app.sync.gov.sg)), tap on 'Log in with Passport Details'.
 
