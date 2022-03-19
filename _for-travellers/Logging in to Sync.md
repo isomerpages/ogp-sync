@@ -8,10 +8,7 @@ description: ""
 
 Welcome to Singapore! 
 
-You will need to log in to the Sync website **using your passport details** if you are:
-
-* a foreign traveller without a Singapore-issued identification number (i.e. NRIC/FIN)
-* Submitting for your child who is under the age of 15 (in which case you will need to enter your child’s passport details)
+You will need to log in to the Sync website **using your passport details** if you are a foreign traveller without a Singapore-issued identification number (i.e. NRIC/FIN).
 
 [![](/images/Log%20in%20button%20-%20Passport.png)](https://app.sync.gov.sg/non-singpass-login)
 
