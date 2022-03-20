@@ -5,8 +5,9 @@ description: ""
 ---
 ### Children with Singapore-issued identification number
 
-For children **who have a Singapore-issued identification number (i.e. NRIC/FIN)** but do not have access to Singpass, you can submit the test result on their behalf by using the following [link](https://go.gov.sg/agsubmit).
+For children **who have a Singapore-issued identification number (i.e. NRIC/FIN)** but do not have access to Singpass, please follow [this link](https://go.gov.sg/agsubmit) to open a submission form, and submit the result of their ART from there instead.
 
+Your submission will be sent automatically to the relevant authorities.
 
 ### Children without Singapore-issued identification number
 
