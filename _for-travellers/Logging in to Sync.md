@@ -10,7 +10,7 @@ Welcome to Singapore!
 
 You will need to log in to the Sync website **using your passport details** if you are a foreign traveller without a Singapore-issued identification number (i.e. NRIC/FIN).
 
-[![](/images/Log%20in%20button%20-%20Passport.png)](https://app.sync.gov.sg/non-singpass-login)
+[![](/images/New%20Log%20in%20button%20-%20Passport.png)](https://app.sync.gov.sg/non-singpass-login)
 
 For travelers **with access to Singpass**, please login to Sync using your Singpass account.
 
