@@ -8,7 +8,7 @@ description: ""
 
 Welcome to Singapore! 
 
-If you have been instructed to submit your test results after arriving in Singapore, please use the login method that applies to you:
+**If you have been instructed to submit your test results after arriving in Singapore**, please use the login method that applies to you:
 
 * For foreign travellers **without a Singapore-issued identification number** (i.e. NRIC/FIN), you will need to log in to the Sync website **using your passport details**. 
 
