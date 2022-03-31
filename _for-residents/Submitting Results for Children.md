@@ -3,7 +3,7 @@ title: Submitting Results for Children
 permalink: /for-residents/children-results
 description: ""
 ---
-If you are travelling with a child who: 
+If you are submitting results for a child who
 * is required to take a Rapid Antigen Test, and 
 * has a Singapore-issued identification number (i.e. NRIC/FIN)
 
