@@ -11,7 +11,7 @@ This form will open outside Sync, but your submission will be sent automatically
 
 ### Children without Singapore-issued identification number
 
-If you are travelling with a child who **does not have a Singapore-issued identification number (i.e. NRIC/FIN)** and they are required to take a Rapid Antigen Test, you can submit the test result on their behalf using their passport details. 
+If you are travelling with a child who **does not have a Singapore-issued identification number (i.e. NRIC/FIN)** and they are required to take an Antigen Rapid Test (ART), you can submit the test result on their behalf using their passport details. 
 
 1. Go to [app.sync.gov.sg](https://app.sync.gov.sg/) and tap on 'Log in with Passport Details'. If you are logged in with your own passport details, please log out before logging in again with your child's passport details.
 2. Enter your child's nationality, passport number, and date of birth, then tap 'Log in'.
