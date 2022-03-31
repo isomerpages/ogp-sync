@@ -5,7 +5,7 @@ description: ""
 ---
 ### Children with Singapore-issued identification number
 
-If you are travelling with a child who **has a Singapore-issued identification number (i.e. NRIC/FIN)** but no Singpass account, and they are required to take a Rapid Antigen Test, please follow [this link](https://go.gov.sg/agsubmit) to open a submission form, and submit the result of their ART from there instead. 
+If you are travelling with a child who **has a Singapore-issued identification number (i.e. NRIC/FIN)** but no Singpass account, and they are required to take an Antigen Rapid Test (ART), please follow [this link](https://go.gov.sg/agsubmit) to open a submission form, and submit the result of their ART from there instead. 
 
 This form will open outside Sync, but your submission will be sent automatically to the relevant authorities.
 
