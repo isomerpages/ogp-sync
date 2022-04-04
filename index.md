@@ -5,7 +5,7 @@ description: Keep your COVID-19 records in sync.
 image: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 permalink: /
 notification: For the latest travel requirements and advisories, please visit
-  the SafeTravel website at www.safetravel.ica.gov.sg
+  the SafeTravel website at safetravel.ica.gov.sg
 sections:
   - hero:
       title: Keep your COVID-19 records in sync
