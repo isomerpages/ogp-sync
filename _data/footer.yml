@@ -3,8 +3,8 @@ show_reach: false
 faq: https://ask.gov.sg/agency/sync
 social_media:
   facebook: https://www.facebook.com/opengovsg
+  linkedin: https://www.linkedin.com/company/open-government-products/
   twitter: https://twitter.com/opengovproducts
   youtube: https://www.youtube.com/channel/UCuyiflEmkfLfIwOuuN5hAfg/videos
   instagram: https://www.instagram.com/opengovsg/
-  linkedin: https://www.linkedin.com/company/open-government-products/
-feedback: sync-feedback
+feedback: /sync-feedback
