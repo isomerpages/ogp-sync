@@ -54,3 +54,6 @@ staging: https://ogp-sync-staging.netlify.app
 prod: https://ogp-sync-prod.netlify.app
 shareicon: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
