@@ -4,8 +4,8 @@ title: Keep your COVID-19 records in sync
 description: Keep your COVID-19 records in sync.
 image: /images/SYNC ISOMER LOGO_32PXUpdated.svg
 permalink: /
-notification: "For information related to travelling/transiting into Singapore,
-  pleave visit the ICA webpage: ica.gov.sg/enter-transit-depart"
+notification: "For information related to traveling/transiting into Singapore,
+  please visit the ICA webpage: ica.gov.sg/enter-transit-depart"
 sections:
   - hero:
       title: Keep your COVID-19 records in sync
