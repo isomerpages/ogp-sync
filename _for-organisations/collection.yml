@@ -2,7 +2,6 @@ collections:
   for-organisations:
     output: true
     order:
-      - Test.md
       - How to Register.md
       - Receiving Results.md
       - Understanding Daily Reports.md
